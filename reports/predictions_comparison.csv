@@ -1,0 +1,301 @@
+review_id,product_id,gold_sentiment,gold_complaints,zero_shot_pred_sentiment,zero_shot_pred_complaints,zero_shot_repaired,few_shot_pred_sentiment,few_shot_pred_complaints,few_shot_repaired,cot_pred_sentiment,cot_pred_complaints,cot_repaired
+REV_001,PROD_KEYBOARD_03,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_002,PROD_SMARTWATCH_02,Negative,Battery / Charging Issue,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,True
+REV_003,PROD_KEYBOARD_03,Negative,Connectivity / Bluetooth Issue; Customer Support Issue,Negative,Customer Support Issue; Connectivity / Bluetooth Issue,False,Negative,Customer Support Issue; Connectivity / Bluetooth Issue,False,Negative,Customer Support Issue; Connectivity / Bluetooth Issue,True
+REV_004,PROD_SMARTWATCH_02,Negative,Software / Pairing Bug,Negative,Software / Pairing Bug,False,Negative,Software / Pairing Bug,False,Negative,Software / Pairing Bug,True
+REV_005,PROD_WEBCAM_04,Negative,Late Delivery / Packaging Damage; Comfort / Fit Issue,Negative,Comfort / Fit Issue,False,Negative,Late Delivery / Packaging Damage; Comfort / Fit Issue,False,Negative,Late Delivery / Packaging Damage; Comfort / Fit Issue,True
+REV_006,PROD_SMARTWATCH_02,Neutral,Customer Support Issue,Negative,Customer Support Issue,False,Negative,Customer Support Issue,False,Negative,Customer Support Issue,True
+REV_007,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_008,PROD_KEYBOARD_03,Negative,Late Delivery / Packaging Damage; Comfort / Fit Issue,Negative,Comfort / Fit Issue,False,Negative,Late Delivery / Packaging Damage; Comfort / Fit Issue,False,Negative,Late Delivery / Packaging Damage; Comfort / Fit Issue,True
+REV_009,PROD_HEADPHONES_01,Negative,Audio / Sound Issue,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,True
+REV_010,PROD_MOUSE_06,Negative,Audio / Sound Issue,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,True
+REV_011,PROD_KEYBOARD_03,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_012,PROD_HEADPHONES_01,Neutral,Overpriced / Poor Value,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_013,PROD_SMARTWATCH_02,Positive,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_014,PROD_WEBCAM_04,Negative,Late Delivery / Packaging Damage; Battery / Charging Issue; Build Quality / Durability Flaw,Negative,Battery / Charging Issue,False,Negative,Late Delivery / Packaging Damage; Battery / Charging Issue,False,Negative,Late Delivery / Packaging Damage; Battery / Charging Issue,True
+REV_015,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_016,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_017,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_018,PROD_WEBCAM_04,Neutral,Software / Pairing Bug,Neutral,Software / Pairing Bug,False,Neutral,Software / Pairing Bug,False,Neutral,Software / Pairing Bug,True
+REV_019,PROD_WEBCAM_04,Negative,Late Delivery / Packaging Damage,Negative,Late Delivery / Packaging Damage,False,Negative,Late Delivery / Packaging Damage,False,Negative,Late Delivery / Packaging Damage,True
+REV_020,PROD_SMARTWATCH_02,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_021,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_022,PROD_SMARTWATCH_02,Negative,Connectivity / Bluetooth Issue; Battery / Charging Issue,Negative,Connectivity / Bluetooth Issue; Battery / Charging Issue,False,Negative,Connectivity / Bluetooth Issue; Battery / Charging Issue,False,Negative,Connectivity / Bluetooth Issue; Battery / Charging Issue,True
+REV_023,PROD_MOUSE_06,Neutral,Software / Pairing Bug,Neutral,Software / Pairing Bug,False,Neutral,Software / Pairing Bug,False,Neutral,Software / Pairing Bug,True
+REV_024,PROD_SMARTWATCH_02,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_025,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_026,PROD_KEYBOARD_03,Positive,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_027,PROD_KEYBOARD_03,Negative,Connectivity / Bluetooth Issue; Build Quality / Durability Flaw; Comfort / Fit Issue,Negative,Software / Pairing Bug; Connectivity / Bluetooth Issue; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Connectivity / Bluetooth Issue; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Connectivity / Bluetooth Issue; Comfort / Fit Issue,True
+REV_028,PROD_WEBCAM_04,Negative,Build Quality / Durability Flaw,Negative,Build Quality / Durability Flaw,False,Negative,Build Quality / Durability Flaw,False,Negative,Build Quality / Durability Flaw,True
+REV_029,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_030,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_031,PROD_WEBCAM_04,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_032,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_033,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_034,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_035,PROD_KEYBOARD_03,Negative,Software / Pairing Bug; Comfort / Fit Issue,Negative,Software / Pairing Bug; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Comfort / Fit Issue,True
+REV_036,PROD_KEYBOARD_03,Negative,Software / Pairing Bug,Negative,Software / Pairing Bug,False,Negative,Software / Pairing Bug,False,Negative,Software / Pairing Bug,True
+REV_037,PROD_KEYBOARD_03,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_038,PROD_SMARTWATCH_02,Negative,Battery / Charging Issue,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,True
+REV_039,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_040,PROD_SMARTWATCH_02,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_041,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_042,PROD_SMARTWATCH_02,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_043,PROD_SPEAKER_05,Neutral,Customer Support Issue,Neutral,Customer Support Issue,False,Neutral,Customer Support Issue,False,Neutral,Customer Support Issue,True
+REV_044,PROD_SPEAKER_05,Negative,Battery / Charging Issue; Audio / Sound Issue,Negative,Audio / Sound Issue; Battery / Charging Issue,False,Negative,Audio / Sound Issue; Battery / Charging Issue,False,Negative,Audio / Sound Issue; Battery / Charging Issue,True
+REV_045,PROD_KEYBOARD_03,Neutral,Software / Pairing Bug,Neutral,Software / Pairing Bug,False,Neutral,Software / Pairing Bug,False,Neutral,Software / Pairing Bug,True
+REV_046,PROD_SMARTWATCH_02,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_047,PROD_MOUSE_06,Negative,Software / Pairing Bug; Comfort / Fit Issue,Negative,Software / Pairing Bug; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Comfort / Fit Issue,True
+REV_048,PROD_SPEAKER_05,Negative,Overpriced / Poor Value,Negative,Build Quality / Durability Flaw,False,Negative,Build Quality / Durability Flaw; Overpriced / Poor Value,False,Negative,Build Quality / Durability Flaw; Overpriced / Poor Value,True
+REV_049,PROD_KEYBOARD_03,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_050,PROD_MOUSE_06,Neutral,Overpriced / Poor Value,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_051,PROD_HEADPHONES_01,Negative,Audio / Sound Issue; Comfort / Fit Issue,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue; Comfort / Fit Issue,False,Negative,Audio / Sound Issue; Comfort / Fit Issue,True
+REV_052,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_053,PROD_SPEAKER_05,Neutral,None,Negative,Build Quality / Durability Flaw,False,Negative,Build Quality / Durability Flaw,False,Negative,Build Quality / Durability Flaw,True
+REV_054,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_055,PROD_KEYBOARD_03,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_056,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_057,PROD_SMARTWATCH_02,Negative,Overpriced / Poor Value,Negative,Build Quality / Durability Flaw; Overpriced / Poor Value,False,Negative,Build Quality / Durability Flaw; Overpriced / Poor Value,False,Negative,Build Quality / Durability Flaw; Overpriced / Poor Value,True
+REV_058,PROD_HEADPHONES_01,Negative,Battery / Charging Issue; Build Quality / Durability Flaw,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,True
+REV_059,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_060,PROD_WEBCAM_04,Negative,Connectivity / Bluetooth Issue,Negative,Connectivity / Bluetooth Issue,False,Negative,Connectivity / Bluetooth Issue,False,Negative,Connectivity / Bluetooth Issue,True
+REV_061,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_062,PROD_SPEAKER_05,Negative,Build Quality / Durability Flaw,Negative,Build Quality / Durability Flaw,False,Negative,Build Quality / Durability Flaw,False,Negative,Build Quality / Durability Flaw,True
+REV_063,PROD_KEYBOARD_03,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_064,PROD_SMARTWATCH_02,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_065,PROD_KEYBOARD_03,Negative,Late Delivery / Packaging Damage,Negative,Late Delivery / Packaging Damage,False,Negative,Late Delivery / Packaging Damage,False,Negative,Late Delivery / Packaging Damage,True
+REV_066,PROD_KEYBOARD_03,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_067,PROD_HEADPHONES_01,Negative,Comfort / Fit Issue; Build Quality / Durability Flaw,Negative,Software / Pairing Bug; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Comfort / Fit Issue,True
+REV_068,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_069,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_070,PROD_KEYBOARD_03,Positive,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_071,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_072,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_073,PROD_WEBCAM_04,Neutral,Overpriced / Poor Value,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_074,PROD_SPEAKER_05,Negative,Late Delivery / Packaging Damage; Software / Pairing Bug,Negative,Late Delivery / Packaging Damage; Software / Pairing Bug,False,Negative,Late Delivery / Packaging Damage; Software / Pairing Bug,False,Negative,Late Delivery / Packaging Damage; Software / Pairing Bug,True
+REV_075,PROD_MOUSE_06,Negative,Audio / Sound Issue; Connectivity / Bluetooth Issue,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,True
+REV_076,PROD_WEBCAM_04,Negative,Connectivity / Bluetooth Issue; Build Quality / Durability Flaw; Comfort / Fit Issue,Negative,Connectivity / Bluetooth Issue,False,Negative,Software / Pairing Bug; Connectivity / Bluetooth Issue; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Connectivity / Bluetooth Issue; Comfort / Fit Issue,True
+REV_077,PROD_KEYBOARD_03,Negative,Connectivity / Bluetooth Issue; Battery / Charging Issue; Audio / Sound Issue; Build Quality / Durability Flaw,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue; Battery / Charging Issue,False,Negative,Audio / Sound Issue; Battery / Charging Issue,True
+REV_078,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_079,PROD_KEYBOARD_03,Negative,Battery / Charging Issue; Build Quality / Durability Flaw,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,True
+REV_080,PROD_SMARTWATCH_02,Positive,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_081,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_082,PROD_WEBCAM_04,Neutral,Software / Pairing Bug,Neutral,Software / Pairing Bug,False,Neutral,Software / Pairing Bug,False,Neutral,Software / Pairing Bug,True
+REV_083,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_084,PROD_KEYBOARD_03,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_085,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_086,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_087,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_088,PROD_SMARTWATCH_02,Negative,Software / Pairing Bug,Negative,Software / Pairing Bug,False,Negative,Software / Pairing Bug,False,Negative,Software / Pairing Bug,True
+REV_089,PROD_HEADPHONES_01,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_090,PROD_SPEAKER_05,Negative,Connectivity / Bluetooth Issue; Build Quality / Durability Flaw,Negative,Connectivity / Bluetooth Issue; Build Quality / Durability Flaw,False,Negative,Connectivity / Bluetooth Issue; Build Quality / Durability Flaw,False,Negative,Connectivity / Bluetooth Issue; Build Quality / Durability Flaw,True
+REV_091,PROD_MOUSE_06,Negative,Comfort / Fit Issue,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,True
+REV_092,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_093,PROD_HEADPHONES_01,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_094,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_095,PROD_HEADPHONES_01,Negative,Late Delivery / Packaging Damage,Negative,Late Delivery / Packaging Damage,False,Negative,Late Delivery / Packaging Damage,False,Negative,Late Delivery / Packaging Damage,True
+REV_096,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_097,PROD_SPEAKER_05,Negative,Customer Support Issue,Negative,Customer Support Issue,False,Negative,Customer Support Issue,False,Negative,Customer Support Issue,True
+REV_098,PROD_HEADPHONES_01,Neutral,Overpriced / Poor Value,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_099,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_100,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_101,PROD_KEYBOARD_03,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_102,PROD_WEBCAM_04,Negative,Connectivity / Bluetooth Issue,Negative,Connectivity / Bluetooth Issue,False,Negative,Connectivity / Bluetooth Issue,False,Negative,Connectivity / Bluetooth Issue,True
+REV_103,PROD_KEYBOARD_03,Neutral,Overpriced / Poor Value,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_104,PROD_MOUSE_06,Negative,Late Delivery / Packaging Damage,Negative,Late Delivery / Packaging Damage,False,Negative,Late Delivery / Packaging Damage,False,Negative,Late Delivery / Packaging Damage,True
+REV_105,PROD_HEADPHONES_01,Negative,Customer Support Issue,Negative,Customer Support Issue,False,Negative,Customer Support Issue,False,Negative,Customer Support Issue,True
+REV_106,PROD_SMARTWATCH_02,Negative,Comfort / Fit Issue,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,True
+REV_107,PROD_SMARTWATCH_02,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_108,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_109,PROD_SMARTWATCH_02,Neutral,Software / Pairing Bug,Neutral,Software / Pairing Bug,False,Neutral,Software / Pairing Bug,False,Neutral,Software / Pairing Bug,True
+REV_110,PROD_SMARTWATCH_02,Negative,Connectivity / Bluetooth Issue; Battery / Charging Issue; Audio / Sound Issue; Build Quality / Durability Flaw,Negative,Audio / Sound Issue; Battery / Charging Issue,False,Negative,Audio / Sound Issue; Battery / Charging Issue,False,Negative,Audio / Sound Issue; Battery / Charging Issue,True
+REV_111,PROD_WEBCAM_04,Negative,Audio / Sound Issue; Connectivity / Bluetooth Issue,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,True
+REV_112,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_113,PROD_MOUSE_06,Negative,Battery / Charging Issue; Build Quality / Durability Flaw,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,True
+REV_114,PROD_MOUSE_06,Negative,Build Quality / Durability Flaw,Negative,Build Quality / Durability Flaw,False,Negative,Build Quality / Durability Flaw,False,Negative,Build Quality / Durability Flaw,True
+REV_115,PROD_HEADPHONES_01,Neutral,None,Negative,Build Quality / Durability Flaw,False,Negative,Build Quality / Durability Flaw,False,Negative,Build Quality / Durability Flaw,True
+REV_116,PROD_SMARTWATCH_02,Neutral,Overpriced / Poor Value,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_117,PROD_SPEAKER_05,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_118,PROD_KEYBOARD_03,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_119,PROD_HEADPHONES_01,Negative,Build Quality / Durability Flaw; Audio / Sound Issue; Comfort / Fit Issue,Negative,Software / Pairing Bug; Audio / Sound Issue; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Audio / Sound Issue; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Audio / Sound Issue; Comfort / Fit Issue,True
+REV_120,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_121,PROD_WEBCAM_04,Negative,Audio / Sound Issue; Connectivity / Bluetooth Issue,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,True
+REV_122,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_123,PROD_MOUSE_06,Negative,Connectivity / Bluetooth Issue; Audio / Sound Issue; Build Quality / Durability Flaw,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue; Build Quality / Durability Flaw,False,Negative,Audio / Sound Issue; Build Quality / Durability Flaw,True
+REV_124,PROD_SMARTWATCH_02,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_125,PROD_SMARTWATCH_02,Neutral,Customer Support Issue,Negative,Customer Support Issue,False,Negative,Customer Support Issue,False,Negative,Customer Support Issue,True
+REV_126,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_127,PROD_SMARTWATCH_02,Negative,Audio / Sound Issue; Software / Pairing Bug,Negative,Software / Pairing Bug; Audio / Sound Issue,False,Negative,Software / Pairing Bug; Audio / Sound Issue,False,Negative,Software / Pairing Bug; Audio / Sound Issue,True
+REV_128,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_129,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_130,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_131,PROD_SMARTWATCH_02,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_132,PROD_SMARTWATCH_02,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_133,PROD_SMARTWATCH_02,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_134,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_135,PROD_SPEAKER_05,Neutral,None,Negative,Build Quality / Durability Flaw,False,Negative,Build Quality / Durability Flaw,False,Negative,Build Quality / Durability Flaw,True
+REV_136,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_137,PROD_MOUSE_06,Negative,Comfort / Fit Issue,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,True
+REV_138,PROD_HEADPHONES_01,Negative,Battery / Charging Issue; Build Quality / Durability Flaw,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,True
+REV_139,PROD_HEADPHONES_01,Negative,Software / Pairing Bug,Negative,Software / Pairing Bug,False,Negative,Software / Pairing Bug,False,Negative,Software / Pairing Bug,True
+REV_140,PROD_WEBCAM_04,Negative,Audio / Sound Issue,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,True
+REV_141,PROD_KEYBOARD_03,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_142,PROD_KEYBOARD_03,Negative,Audio / Sound Issue,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,True
+REV_143,PROD_MOUSE_06,Negative,Audio / Sound Issue; Connectivity / Bluetooth Issue,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,True
+REV_144,PROD_HEADPHONES_01,Negative,Overpriced / Poor Value,Negative,Build Quality / Durability Flaw; Overpriced / Poor Value,False,Negative,Build Quality / Durability Flaw; Overpriced / Poor Value,False,Negative,Build Quality / Durability Flaw; Overpriced / Poor Value,True
+REV_145,PROD_KEYBOARD_03,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_146,PROD_KEYBOARD_03,Negative,Comfort / Fit Issue,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,True
+REV_147,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_148,PROD_SMARTWATCH_02,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_149,PROD_SMARTWATCH_02,Negative,Audio / Sound Issue; Connectivity / Bluetooth Issue,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,True
+REV_150,PROD_SMARTWATCH_02,Negative,Comfort / Fit Issue,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,True
+REV_151,PROD_SPEAKER_05,Negative,Customer Support Issue,Negative,Customer Support Issue,False,Negative,Customer Support Issue,False,Negative,Customer Support Issue,True
+REV_152,PROD_KEYBOARD_03,Neutral,Overpriced / Poor Value,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_153,PROD_KEYBOARD_03,Negative,Battery / Charging Issue,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,True
+REV_154,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_155,PROD_WEBCAM_04,Negative,Audio / Sound Issue,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,True
+REV_156,PROD_HEADPHONES_01,Negative,Connectivity / Bluetooth Issue,Negative,Connectivity / Bluetooth Issue,False,Negative,Connectivity / Bluetooth Issue,False,Negative,Connectivity / Bluetooth Issue,True
+REV_157,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_158,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_159,PROD_KEYBOARD_03,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_160,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_161,PROD_SMARTWATCH_02,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_162,PROD_SPEAKER_05,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_163,PROD_SPEAKER_05,Negative,Connectivity / Bluetooth Issue; Customer Support Issue; Audio / Sound Issue,Negative,Audio / Sound Issue,False,Negative,Customer Support Issue; Audio / Sound Issue,False,Negative,Customer Support Issue; Audio / Sound Issue,True
+REV_164,PROD_KEYBOARD_03,Negative,Comfort / Fit Issue; Build Quality / Durability Flaw,Negative,Software / Pairing Bug; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Comfort / Fit Issue,True
+REV_165,PROD_HEADPHONES_01,Negative,Connectivity / Bluetooth Issue; Build Quality / Durability Flaw,Negative,Connectivity / Bluetooth Issue; Build Quality / Durability Flaw,False,Negative,Connectivity / Bluetooth Issue; Build Quality / Durability Flaw,False,Negative,Connectivity / Bluetooth Issue; Build Quality / Durability Flaw,True
+REV_166,PROD_SMARTWATCH_02,Negative,Build Quality / Durability Flaw; Audio / Sound Issue; Comfort / Fit Issue,Negative,Software / Pairing Bug; Audio / Sound Issue; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Audio / Sound Issue; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Audio / Sound Issue; Comfort / Fit Issue,True
+REV_167,PROD_HEADPHONES_01,Negative,Battery / Charging Issue; Software / Pairing Bug; Build Quality / Durability Flaw,Negative,Software / Pairing Bug; Battery / Charging Issue,False,Negative,Software / Pairing Bug; Battery / Charging Issue,False,Negative,Software / Pairing Bug; Battery / Charging Issue,True
+REV_168,PROD_HEADPHONES_01,Negative,Battery / Charging Issue,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,True
+REV_169,PROD_WEBCAM_04,Neutral,None,Negative,Build Quality / Durability Flaw,False,Negative,Build Quality / Durability Flaw,False,Negative,Build Quality / Durability Flaw,True
+REV_170,PROD_WEBCAM_04,Negative,Comfort / Fit Issue; Build Quality / Durability Flaw,Negative,Software / Pairing Bug; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Comfort / Fit Issue,True
+REV_171,PROD_SMARTWATCH_02,Negative,Connectivity / Bluetooth Issue; Audio / Sound Issue; Overpriced / Poor Value,Negative,Audio / Sound Issue; Build Quality / Durability Flaw; Overpriced / Poor Value,False,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue; Build Quality / Durability Flaw; Overpriced / Poor Value,True
+REV_172,PROD_SMARTWATCH_02,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_173,PROD_MOUSE_06,Negative,Comfort / Fit Issue,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,True
+REV_174,PROD_KEYBOARD_03,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_175,PROD_KEYBOARD_03,Negative,Audio / Sound Issue,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,True
+REV_176,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_177,PROD_SMARTWATCH_02,Negative,Comfort / Fit Issue,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,True
+REV_178,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_179,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_180,PROD_KEYBOARD_03,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_181,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_182,PROD_SPEAKER_05,Negative,Customer Support Issue; Build Quality / Durability Flaw; Comfort / Fit Issue,Negative,Customer Support Issue; Software / Pairing Bug; Comfort / Fit Issue,False,Negative,Customer Support Issue; Software / Pairing Bug; Comfort / Fit Issue,False,Negative,Customer Support Issue; Software / Pairing Bug; Comfort / Fit Issue,True
+REV_183,PROD_HEADPHONES_01,Negative,Customer Support Issue,Negative,Customer Support Issue,False,Negative,Customer Support Issue,False,Negative,Customer Support Issue,True
+REV_184,PROD_HEADPHONES_01,Negative,Battery / Charging Issue; Build Quality / Durability Flaw,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,True
+REV_185,PROD_SMARTWATCH_02,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_186,PROD_SMARTWATCH_02,Negative,Audio / Sound Issue; Connectivity / Bluetooth Issue,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,True
+REV_187,PROD_MOUSE_06,Neutral,Customer Support Issue,Negative,Customer Support Issue,False,Negative,Customer Support Issue,False,Negative,Customer Support Issue,True
+REV_188,PROD_MOUSE_06,Negative,Audio / Sound Issue,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,True
+REV_189,PROD_KEYBOARD_03,Negative,Overpriced / Poor Value,Negative,Build Quality / Durability Flaw; Overpriced / Poor Value,False,Negative,Build Quality / Durability Flaw; Overpriced / Poor Value,False,Negative,Build Quality / Durability Flaw; Overpriced / Poor Value,True
+REV_190,PROD_SPEAKER_05,Negative,Customer Support Issue; Software / Pairing Bug,Negative,Customer Support Issue,False,Negative,Customer Support Issue; Software / Pairing Bug,False,Negative,Customer Support Issue; Software / Pairing Bug,True
+REV_191,PROD_KEYBOARD_03,Negative,Customer Support Issue,Negative,Customer Support Issue,False,Negative,Customer Support Issue,False,Negative,Customer Support Issue,True
+REV_192,PROD_SPEAKER_05,Neutral,Overpriced / Poor Value,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_193,PROD_SPEAKER_05,Negative,Connectivity / Bluetooth Issue,Negative,Connectivity / Bluetooth Issue,False,Negative,Connectivity / Bluetooth Issue,False,Negative,Connectivity / Bluetooth Issue,True
+REV_194,PROD_WEBCAM_04,Negative,Connectivity / Bluetooth Issue; Battery / Charging Issue; Audio / Sound Issue; Build Quality / Durability Flaw,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue; Battery / Charging Issue,False,Negative,Audio / Sound Issue; Battery / Charging Issue,True
+REV_195,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_196,PROD_MOUSE_06,Neutral,Customer Support Issue,Negative,Customer Support Issue,False,Negative,Customer Support Issue,False,Negative,Customer Support Issue,True
+REV_197,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_198,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_199,PROD_KEYBOARD_03,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_200,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_201,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_202,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_203,PROD_SPEAKER_05,Negative,Build Quality / Durability Flaw; Audio / Sound Issue; Comfort / Fit Issue,Negative,Software / Pairing Bug; Audio / Sound Issue; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Audio / Sound Issue; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Audio / Sound Issue; Comfort / Fit Issue,True
+REV_204,PROD_SMARTWATCH_02,Negative,Connectivity / Bluetooth Issue,Negative,Connectivity / Bluetooth Issue,False,Negative,Connectivity / Bluetooth Issue,False,Negative,Connectivity / Bluetooth Issue,True
+REV_205,PROD_WEBCAM_04,Neutral,Overpriced / Poor Value,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_206,PROD_SMARTWATCH_02,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_207,PROD_SPEAKER_05,Negative,Overpriced / Poor Value,Negative,Build Quality / Durability Flaw,False,Negative,Build Quality / Durability Flaw,False,Negative,Build Quality / Durability Flaw; Overpriced / Poor Value,True
+REV_208,PROD_SPEAKER_05,Negative,Connectivity / Bluetooth Issue,Negative,Connectivity / Bluetooth Issue,False,Negative,Connectivity / Bluetooth Issue,False,Negative,Connectivity / Bluetooth Issue,True
+REV_209,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_210,PROD_MOUSE_06,Neutral,Overpriced / Poor Value,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_211,PROD_KEYBOARD_03,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_212,PROD_SPEAKER_05,Negative,Audio / Sound Issue; Connectivity / Bluetooth Issue,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,True
+REV_213,PROD_KEYBOARD_03,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_214,PROD_KEYBOARD_03,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_215,PROD_MOUSE_06,Negative,Customer Support Issue; Battery / Charging Issue,Negative,Customer Support Issue; Battery / Charging Issue,False,Negative,Customer Support Issue; Battery / Charging Issue,False,Negative,Customer Support Issue; Battery / Charging Issue,True
+REV_216,PROD_SMARTWATCH_02,Positive,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_217,PROD_SMARTWATCH_02,Negative,Battery / Charging Issue; Build Quality / Durability Flaw,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,True
+REV_218,PROD_KEYBOARD_03,Neutral,Software / Pairing Bug,Neutral,Software / Pairing Bug,False,Neutral,Software / Pairing Bug,False,Neutral,Software / Pairing Bug,True
+REV_219,PROD_SMARTWATCH_02,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_220,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_221,PROD_KEYBOARD_03,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_222,PROD_SPEAKER_05,Negative,Connectivity / Bluetooth Issue,Negative,Connectivity / Bluetooth Issue,False,Negative,Connectivity / Bluetooth Issue,False,Negative,Connectivity / Bluetooth Issue,True
+REV_223,PROD_SMARTWATCH_02,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_224,PROD_WEBCAM_04,Negative,Customer Support Issue,Negative,Customer Support Issue,False,Negative,Customer Support Issue,False,Negative,Customer Support Issue,True
+REV_225,PROD_HEADPHONES_01,Negative,Comfort / Fit Issue; Build Quality / Durability Flaw,Negative,Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Comfort / Fit Issue,True
+REV_226,PROD_SPEAKER_05,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_227,PROD_WEBCAM_04,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_228,PROD_MOUSE_06,Negative,Late Delivery / Packaging Damage,Negative,Late Delivery / Packaging Damage,False,Negative,Late Delivery / Packaging Damage,False,Negative,Late Delivery / Packaging Damage,True
+REV_229,PROD_WEBCAM_04,Neutral,Software / Pairing Bug,Neutral,Software / Pairing Bug,False,Neutral,Software / Pairing Bug,False,Neutral,Software / Pairing Bug,True
+REV_230,PROD_SPEAKER_05,Negative,Audio / Sound Issue,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,True
+REV_231,PROD_SMARTWATCH_02,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_232,PROD_SPEAKER_05,Negative,Battery / Charging Issue; Software / Pairing Bug; Build Quality / Durability Flaw,Negative,Software / Pairing Bug; Battery / Charging Issue,False,Negative,Software / Pairing Bug; Battery / Charging Issue,False,Negative,Software / Pairing Bug; Battery / Charging Issue,True
+REV_233,PROD_MOUSE_06,Negative,Late Delivery / Packaging Damage; Battery / Charging Issue; Build Quality / Durability Flaw,Negative,Late Delivery / Packaging Damage; Battery / Charging Issue,False,Negative,Late Delivery / Packaging Damage; Battery / Charging Issue,False,Negative,Late Delivery / Packaging Damage; Battery / Charging Issue,True
+REV_234,PROD_WEBCAM_04,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_235,PROD_SPEAKER_05,Neutral,Customer Support Issue,Negative,Customer Support Issue,False,Negative,Customer Support Issue,False,Negative,Customer Support Issue,True
+REV_236,PROD_MOUSE_06,Negative,Customer Support Issue,Negative,Customer Support Issue,False,Negative,Customer Support Issue,False,Negative,Customer Support Issue,True
+REV_237,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_238,PROD_WEBCAM_04,Negative,Build Quality / Durability Flaw; Overpriced / Poor Value; Comfort / Fit Issue,Negative,Comfort / Fit Issue,False,Negative,Overpriced / Poor Value; Software / Pairing Bug; Build Quality / Durability Flaw; Comfort / Fit Issue,False,Negative,Overpriced / Poor Value; Software / Pairing Bug; Build Quality / Durability Flaw; Comfort / Fit Issue,True
+REV_239,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_240,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_241,PROD_KEYBOARD_03,Negative,Customer Support Issue,Negative,Customer Support Issue,False,Negative,Customer Support Issue,False,Negative,Customer Support Issue,True
+REV_242,PROD_WEBCAM_04,Negative,Audio / Sound Issue; Connectivity / Bluetooth Issue,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,False,Negative,Audio / Sound Issue,True
+REV_243,PROD_KEYBOARD_03,Negative,Build Quality / Durability Flaw; Comfort / Fit Issue,Negative,Software / Pairing Bug; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Comfort / Fit Issue,True
+REV_244,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_245,PROD_MOUSE_06,Neutral,None,Neutral,Build Quality / Durability Flaw,False,Neutral,Build Quality / Durability Flaw,False,Neutral,Build Quality / Durability Flaw,True
+REV_246,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_247,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_248,PROD_WEBCAM_04,Negative,Comfort / Fit Issue; Build Quality / Durability Flaw,Negative,Software / Pairing Bug; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Comfort / Fit Issue,True
+REV_249,PROD_MOUSE_06,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_250,PROD_KEYBOARD_03,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_251,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_252,PROD_SMARTWATCH_02,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_253,PROD_SMARTWATCH_02,Negative,Late Delivery / Packaging Damage,Negative,Late Delivery / Packaging Damage,False,Negative,Late Delivery / Packaging Damage,False,Negative,Late Delivery / Packaging Damage,True
+REV_254,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_255,PROD_SMARTWATCH_02,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_256,PROD_HEADPHONES_01,Neutral,None,Negative,Build Quality / Durability Flaw,False,Negative,Build Quality / Durability Flaw,False,Negative,Build Quality / Durability Flaw,True
+REV_257,PROD_HEADPHONES_01,Negative,Customer Support Issue; Build Quality / Durability Flaw; Comfort / Fit Issue,Negative,Customer Support Issue; Software / Pairing Bug; Comfort / Fit Issue,False,Negative,Customer Support Issue; Software / Pairing Bug; Comfort / Fit Issue,False,Negative,Customer Support Issue; Software / Pairing Bug; Comfort / Fit Issue,True
+REV_258,PROD_KEYBOARD_03,Negative,Customer Support Issue; Overpriced / Poor Value,Negative,Customer Support Issue; Build Quality / Durability Flaw; Overpriced / Poor Value,False,Negative,Customer Support Issue; Build Quality / Durability Flaw; Overpriced / Poor Value,False,Negative,Customer Support Issue; Build Quality / Durability Flaw; Overpriced / Poor Value,True
+REV_259,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_260,PROD_SPEAKER_05,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_261,PROD_SMARTWATCH_02,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_262,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_263,PROD_MOUSE_06,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_264,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_265,PROD_MOUSE_06,Negative,Customer Support Issue,Negative,Customer Support Issue,False,Negative,Customer Support Issue,False,Negative,Customer Support Issue,True
+REV_266,PROD_SMARTWATCH_02,Neutral,Overpriced / Poor Value,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_267,PROD_MOUSE_06,Negative,Software / Pairing Bug,Negative,Software / Pairing Bug,False,Negative,Software / Pairing Bug,False,Negative,Software / Pairing Bug,True
+REV_268,PROD_SMARTWATCH_02,Negative,Connectivity / Bluetooth Issue,Negative,Connectivity / Bluetooth Issue,False,Negative,Connectivity / Bluetooth Issue,False,Negative,Connectivity / Bluetooth Issue,True
+REV_269,PROD_SPEAKER_05,Negative,Build Quality / Durability Flaw; Audio / Sound Issue; Comfort / Fit Issue,Negative,Software / Pairing Bug; Audio / Sound Issue; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Audio / Sound Issue; Comfort / Fit Issue,False,Negative,Software / Pairing Bug; Audio / Sound Issue; Comfort / Fit Issue,True
+REV_270,PROD_MOUSE_06,Negative,Battery / Charging Issue; Overpriced / Poor Value; Build Quality / Durability Flaw,Negative,Battery / Charging Issue; Build Quality / Durability Flaw; Overpriced / Poor Value,False,Negative,Battery / Charging Issue; Build Quality / Durability Flaw; Overpriced / Poor Value,False,Negative,Battery / Charging Issue; Build Quality / Durability Flaw; Overpriced / Poor Value,True
+REV_271,PROD_WEBCAM_04,Negative,Late Delivery / Packaging Damage,Negative,Late Delivery / Packaging Damage,False,Negative,Late Delivery / Packaging Damage,False,Negative,Late Delivery / Packaging Damage,True
+REV_272,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_273,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_274,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_275,PROD_WEBCAM_04,Negative,Battery / Charging Issue; Build Quality / Durability Flaw,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,False,Negative,Battery / Charging Issue,True
+REV_276,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_277,PROD_KEYBOARD_03,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_278,PROD_HEADPHONES_01,Negative,Late Delivery / Packaging Damage; Software / Pairing Bug,Negative,Late Delivery / Packaging Damage,False,Negative,Late Delivery / Packaging Damage; Software / Pairing Bug,False,Negative,Late Delivery / Packaging Damage; Software / Pairing Bug,True
+REV_279,PROD_HEADPHONES_01,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_280,PROD_MOUSE_06,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_281,PROD_WEBCAM_04,Negative,Customer Support Issue; Software / Pairing Bug,Negative,Customer Support Issue,False,Negative,Customer Support Issue; Software / Pairing Bug,False,Negative,Customer Support Issue; Software / Pairing Bug,True
+REV_282,PROD_KEYBOARD_03,Negative,Connectivity / Bluetooth Issue,Negative,Connectivity / Bluetooth Issue,False,Negative,Connectivity / Bluetooth Issue,False,Negative,Connectivity / Bluetooth Issue,True
+REV_283,PROD_HEADPHONES_01,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_284,PROD_KEYBOARD_03,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_285,PROD_SPEAKER_05,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_286,PROD_SMARTWATCH_02,Negative,Late Delivery / Packaging Damage,Negative,Late Delivery / Packaging Damage,False,Negative,Late Delivery / Packaging Damage,False,Negative,Late Delivery / Packaging Damage,True
+REV_287,PROD_MOUSE_06,Negative,Comfort / Fit Issue,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,True
+REV_288,PROD_WEBCAM_04,Neutral,Overpriced / Poor Value,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_289,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_290,PROD_HEADPHONES_01,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_291,PROD_HEADPHONES_01,Neutral,Overpriced / Poor Value,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_292,PROD_SPEAKER_05,Negative,Customer Support Issue,Negative,Customer Support Issue,False,Negative,Customer Support Issue,False,Negative,Customer Support Issue,True
+REV_293,PROD_KEYBOARD_03,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_294,PROD_MOUSE_06,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True
+REV_295,PROD_HEADPHONES_01,Negative,Comfort / Fit Issue,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,True
+REV_296,PROD_KEYBOARD_03,Negative,Comfort / Fit Issue,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,False,Negative,Comfort / Fit Issue,True
+REV_297,PROD_SPEAKER_05,Neutral,Customer Support Issue,Negative,Customer Support Issue,False,Negative,Customer Support Issue,False,Negative,Customer Support Issue,True
+REV_298,PROD_WEBCAM_04,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_299,PROD_MOUSE_06,Positive,None,Positive,None,False,Positive,None,False,Positive,None,True
+REV_300,PROD_HEADPHONES_01,Neutral,None,Neutral,None,False,Neutral,None,False,Neutral,None,True

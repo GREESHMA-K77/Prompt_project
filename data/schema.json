@@ -1,0 +1,118 @@
+{
+  "$defs": {
+    "AspectDetail": {
+      "properties": {
+        "aspect": {
+          "description": "The product aspect evaluated (e.g., sound_quality, battery_life, build_quality, comfort, price, connectivity, software)",
+          "title": "Aspect",
+          "type": "string"
+        },
+        "sentiment": {
+          "$ref": "#/$defs/SentimentType",
+          "description": "Sentiment towards this specific aspect: Positive, Negative, or Neutral"
+        },
+        "evidence": {
+          "default": "",
+          "description": "Direct quote or snippet from the review supporting this aspect judgment",
+          "title": "Evidence",
+          "type": "string"
+        }
+      },
+      "required": [
+        "aspect",
+        "sentiment"
+      ],
+      "title": "AspectDetail",
+      "type": "object"
+    },
+    "SentimentType": {
+      "enum": [
+        "Positive",
+        "Negative",
+        "Neutral"
+      ],
+      "title": "SentimentType",
+      "type": "string"
+    }
+  },
+  "properties": {
+    "review_id": {
+      "description": "Unique identifier of the customer review",
+      "title": "Review Id",
+      "type": "string"
+    },
+    "product_id": {
+      "description": "Unique product identifier",
+      "title": "Product Id",
+      "type": "string"
+    },
+    "product_name": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": "Unknown Product",
+      "description": "Name of the product",
+      "title": "Product Name"
+    },
+    "overall_sentiment": {
+      "$ref": "#/$defs/SentimentType",
+      "description": "Overall review sentiment: Positive, Negative, or Neutral"
+    },
+    "sentiment_confidence": {
+      "default": 0.85,
+      "description": "Model confidence score between 0.0 and 1.0",
+      "maximum": 1.0,
+      "minimum": 0.0,
+      "title": "Sentiment Confidence",
+      "type": "number"
+    },
+    "aspects": {
+      "description": "List of aspect-level sentiment extractions with evidence snippets",
+      "items": {
+        "$ref": "#/$defs/AspectDetail"
+      },
+      "title": "Aspects",
+      "type": "array"
+    },
+    "complaint_categories": {
+      "description": "Multi-label classification of complaints matching canonical complaint categories",
+      "items": {
+        "type": "string"
+      },
+      "title": "Complaint Categories",
+      "type": "array"
+    },
+    "summary_takeaway": {
+      "default": "",
+      "description": "Concise 1-2 sentence core takeaway summarizing the review",
+      "title": "Summary Takeaway",
+      "type": "string"
+    },
+    "is_repaired": {
+      "default": false,
+      "description": "Flag indicating whether this record had to be auto-repaired from malformed LLM output",
+      "title": "Is Repaired",
+      "type": "boolean"
+    },
+    "repair_log": {
+      "description": "Log of transformations applied to repair malformed input",
+      "items": {
+        "type": "string"
+      },
+      "title": "Repair Log",
+      "type": "array"
+    }
+  },
+  "required": [
+    "review_id",
+    "product_id",
+    "overall_sentiment"
+  ],
+  "title": "ReviewAnalysisRecord",
+  "type": "object"
+}

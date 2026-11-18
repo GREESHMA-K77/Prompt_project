@@ -1,0 +1,1203 @@
+[
+  {
+    "review_id": "REV_009",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "sound_quality",
+        "sentiment": "Negative",
+        "evidence": "muddy"
+      }
+    ],
+    "complaint_categories": [
+      "Audio / Sound Issue"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on sound_quality.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (394 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_012",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Neutral",
+    "sentiment_confidence": 0.89,
+    "aspects": [
+      {
+        "aspect": "general",
+        "sentiment": "Neutral",
+        "evidence": "Honestly, Sound is okay and connection i"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits neutral sentiment centered on general.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (372 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_030",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "customer_service",
+        "sentiment": "Positive",
+        "evidence": "responsive"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on customer_service.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (382 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_032",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "build_quality",
+        "sentiment": "Positive",
+        "evidence": "aluminum finish"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on build_quality.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (379 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_033",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "connectivity",
+        "sentiment": "Positive",
+        "evidence": "pairs instantly"
+      },
+      {
+        "aspect": "software",
+        "sentiment": "Positive",
+        "evidence": "intuitive"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on connectivity, software.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (388 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_051",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "sound_quality",
+        "sentiment": "Negative",
+        "evidence": "muddy"
+      },
+      {
+        "aspect": "comfort",
+        "sentiment": "Negative",
+        "evidence": "tight clamping"
+      }
+    ],
+    "complaint_categories": [
+      "Audio / Sound Issue",
+      "Comfort / Fit Issue"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on sound_quality, comfort.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (426 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_056",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "sound_quality",
+        "sentiment": "Positive",
+        "evidence": "crystal clear"
+      },
+      {
+        "aspect": "customer_service",
+        "sentiment": "Positive",
+        "evidence": "responsive"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on sound_quality, customer_service.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (397 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_058",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "battery_life",
+        "sentiment": "Negative",
+        "evidence": "charging port stopped working"
+      }
+    ],
+    "complaint_categories": [
+      "Battery / Charging Issue"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on battery_life.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (398 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_067",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "comfort",
+        "sentiment": "Negative",
+        "evidence": "painful wrist"
+      },
+      {
+        "aspect": "software",
+        "sentiment": "Negative",
+        "evidence": "glitchy"
+      }
+    ],
+    "complaint_categories": [
+      "Software / Pairing Bug",
+      "Comfort / Fit Issue"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on comfort, software.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (424 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_085",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "connectivity",
+        "sentiment": "Positive",
+        "evidence": "pairs instantly"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on connectivity.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (378 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_089",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Neutral",
+    "sentiment_confidence": 0.89,
+    "aspects": [
+      {
+        "aspect": "general",
+        "sentiment": "Neutral",
+        "evidence": "I was really excited about this product."
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits neutral sentiment centered on general.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (372 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_092",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "customer_service",
+        "sentiment": "Positive",
+        "evidence": "responsive"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on customer_service.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (382 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_093",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Neutral",
+    "sentiment_confidence": 0.89,
+    "aspects": [
+      {
+        "aspect": "general",
+        "sentiment": "Neutral",
+        "evidence": "Upgraded to this model recently. It work"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits neutral sentiment centered on general.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (372 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_095",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "shipping_packaging",
+        "sentiment": "Negative",
+        "evidence": "two weeks late"
+      }
+    ],
+    "complaint_categories": [
+      "Late Delivery / Packaging Damage"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on shipping_packaging.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (412 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_096",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "software",
+        "sentiment": "Positive",
+        "evidence": "intuitive"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on software.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (374 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_098",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Neutral",
+    "sentiment_confidence": 0.89,
+    "aspects": [
+      {
+        "aspect": "general",
+        "sentiment": "Neutral",
+        "evidence": "Purchased this last week. Sound is okay "
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits neutral sentiment centered on general.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (372 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_105",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "customer_service",
+        "sentiment": "Negative",
+        "evidence": "refused to honor the warranty"
+      }
+    ],
+    "complaint_categories": [
+      "Customer Support Issue"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on customer_service.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (400 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_115",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "build_quality",
+        "sentiment": "Negative",
+        "evidence": "wobbly"
+      }
+    ],
+    "complaint_categories": [
+      "Build Quality / Durability Flaw"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on build_quality.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (406 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_119",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "sound_quality",
+        "sentiment": "Negative",
+        "evidence": "muddy"
+      },
+      {
+        "aspect": "comfort",
+        "sentiment": "Negative",
+        "evidence": "painful wrist"
+      },
+      {
+        "aspect": "software",
+        "sentiment": "Negative",
+        "evidence": "glitchy"
+      }
+    ],
+    "complaint_categories": [
+      "Software / Pairing Bug",
+      "Audio / Sound Issue",
+      "Comfort / Fit Issue"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on sound_quality, comfort.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (462 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_128",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "connectivity",
+        "sentiment": "Positive",
+        "evidence": "pairs instantly"
+      },
+      {
+        "aspect": "price_value",
+        "sentiment": "Positive",
+        "evidence": "fantastic value"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on connectivity, price_value.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (391 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_130",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "battery_life",
+        "sentiment": "Positive",
+        "evidence": "exceeded my expectations"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on battery_life.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (378 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_138",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "battery_life",
+        "sentiment": "Negative",
+        "evidence": "charging port stopped working"
+      }
+    ],
+    "complaint_categories": [
+      "Battery / Charging Issue"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on battery_life.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (398 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_139",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "software",
+        "sentiment": "Negative",
+        "evidence": "desktop software crashes"
+      }
+    ],
+    "complaint_categories": [
+      "Software / Pairing Bug"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on software.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (392 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_144",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "build_quality",
+        "sentiment": "Negative",
+        "evidence": "cheap materials"
+      },
+      {
+        "aspect": "price_value",
+        "sentiment": "Negative",
+        "evidence": "way overpriced"
+      }
+    ],
+    "complaint_categories": [
+      "Build Quality / Durability Flaw",
+      "Overpriced / Poor Value"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on build_quality, price_value.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (446 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_154",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "comfort",
+        "sentiment": "Positive",
+        "evidence": "super comfortable"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on comfort.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (373 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_156",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "connectivity",
+        "sentiment": "Negative",
+        "evidence": "bluetooth dropouts"
+      }
+    ],
+    "complaint_categories": [
+      "Connectivity / Bluetooth Issue"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on connectivity.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (404 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_160",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "sound_quality",
+        "sentiment": "Positive",
+        "evidence": "crystal clear"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on sound_quality.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (379 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_165",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "connectivity",
+        "sentiment": "Negative",
+        "evidence": "bluetooth dropouts"
+      },
+      {
+        "aspect": "build_quality",
+        "sentiment": "Negative",
+        "evidence": "plastic headband snapped"
+      }
+    ],
+    "complaint_categories": [
+      "Connectivity / Bluetooth Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on connectivity, build_quality.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (454 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_167",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "battery_life",
+        "sentiment": "Negative",
+        "evidence": "charging port stopped working"
+      },
+      {
+        "aspect": "software",
+        "sentiment": "Negative",
+        "evidence": "desktop software crashes"
+      }
+    ],
+    "complaint_categories": [
+      "Software / Pairing Bug",
+      "Battery / Charging Issue"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on battery_life, software.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (434 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_168",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "battery_life",
+        "sentiment": "Negative",
+        "evidence": "drains completely"
+      }
+    ],
+    "complaint_categories": [
+      "Battery / Charging Issue"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on battery_life.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (398 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_183",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "customer_service",
+        "sentiment": "Negative",
+        "evidence": "refused to honor the warranty"
+      }
+    ],
+    "complaint_categories": [
+      "Customer Support Issue"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on customer_service.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (400 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_184",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "battery_life",
+        "sentiment": "Negative",
+        "evidence": "charging port stopped working"
+      }
+    ],
+    "complaint_categories": [
+      "Battery / Charging Issue"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on battery_life.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (398 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_195",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "general",
+        "sentiment": "Positive",
+        "evidence": "After using this for a month: Brilliant "
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on general.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (373 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_197",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "customer_service",
+        "sentiment": "Positive",
+        "evidence": "responsive"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on customer_service.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (382 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_200",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "comfort",
+        "sentiment": "Positive",
+        "evidence": "super comfortable"
+      },
+      {
+        "aspect": "price_value",
+        "sentiment": "Positive",
+        "evidence": "fantastic value"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on comfort, price_value.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (386 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_225",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "comfort",
+        "sentiment": "Negative",
+        "evidence": "painful wrist"
+      },
+      {
+        "aspect": "software",
+        "sentiment": "Negative",
+        "evidence": "glitchy"
+      }
+    ],
+    "complaint_categories": [
+      "Software / Pairing Bug",
+      "Comfort / Fit Issue"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on comfort, software.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (424 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_239",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "software",
+        "sentiment": "Positive",
+        "evidence": "intuitive"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on software.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (374 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_240",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "sound_quality",
+        "sentiment": "Positive",
+        "evidence": "crystal clear"
+      },
+      {
+        "aspect": "connectivity",
+        "sentiment": "Positive",
+        "evidence": "pairs instantly"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on sound_quality, connectivity.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (393 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_246",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "build_quality",
+        "sentiment": "Positive",
+        "evidence": "aluminum finish"
+      },
+      {
+        "aspect": "software",
+        "sentiment": "Positive",
+        "evidence": "intuitive"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on build_quality, software.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (389 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_247",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "general",
+        "sentiment": "Positive",
+        "evidence": "Purchased this last week. Brilliant micr"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on general.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (373 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_256",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "build_quality",
+        "sentiment": "Negative",
+        "evidence": "wobbly"
+      }
+    ],
+    "complaint_categories": [
+      "Build Quality / Durability Flaw"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on build_quality.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (406 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_257",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "comfort",
+        "sentiment": "Negative",
+        "evidence": "painful wrist"
+      },
+      {
+        "aspect": "customer_service",
+        "sentiment": "Negative",
+        "evidence": "refused to honor the warranty"
+      },
+      {
+        "aspect": "software",
+        "sentiment": "Negative",
+        "evidence": "glitchy"
+      }
+    ],
+    "complaint_categories": [
+      "Customer Support Issue",
+      "Software / Pairing Bug",
+      "Comfort / Fit Issue"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on comfort, customer_service.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (468 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_276",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "price_value",
+        "sentiment": "Positive",
+        "evidence": "fantastic value"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on price_value.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (377 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_278",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "shipping_packaging",
+        "sentiment": "Negative",
+        "evidence": "two weeks late"
+      },
+      {
+        "aspect": "software",
+        "sentiment": "Negative",
+        "evidence": "desktop software crashes"
+      }
+    ],
+    "complaint_categories": [
+      "Late Delivery / Packaging Damage",
+      "Software / Pairing Bug"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on shipping_packaging, software.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (448 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_279",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Neutral",
+    "sentiment_confidence": 0.89,
+    "aspects": [
+      {
+        "aspect": "general",
+        "sentiment": "Neutral",
+        "evidence": "Here is my honest take: Comfort is accep"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits neutral sentiment centered on general.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (372 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_283",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Neutral",
+    "sentiment_confidence": 0.89,
+    "aspects": [
+      {
+        "aspect": "general",
+        "sentiment": "Neutral",
+        "evidence": "I was really excited about this product."
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits neutral sentiment centered on general.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (372 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_290",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Positive",
+    "sentiment_confidence": 0.96,
+    "aspects": [
+      {
+        "aspect": "comfort",
+        "sentiment": "Positive",
+        "evidence": "super comfortable"
+      },
+      {
+        "aspect": "customer_service",
+        "sentiment": "Positive",
+        "evidence": "responsive"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits positive sentiment centered on comfort, customer_service.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (391 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_291",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Neutral",
+    "sentiment_confidence": 0.89,
+    "aspects": [
+      {
+        "aspect": "general",
+        "sentiment": "Neutral",
+        "evidence": "Straight to the point: Sound is okay and"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits neutral sentiment centered on general.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (372 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_295",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Negative",
+    "sentiment_confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "comfort",
+        "sentiment": "Negative",
+        "evidence": "tight clamping"
+      }
+    ],
+    "complaint_categories": [
+      "Comfort / Fit Issue"
+    ],
+    "summary_takeaway": "Review exhibits negative sentiment centered on comfort.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (388 chars before, 0 chars after)"
+    ]
+  },
+  {
+    "review_id": "REV_300",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "overall_sentiment": "Neutral",
+    "sentiment_confidence": 0.89,
+    "aspects": [
+      {
+        "aspect": "general",
+        "sentiment": "Neutral",
+        "evidence": "I had mixed feelings before ordering. Ba"
+      }
+    ],
+    "complaint_categories": [
+      "None"
+    ],
+    "summary_takeaway": "Review exhibits neutral sentiment centered on general.",
+    "is_repaired": true,
+    "repair_log": [
+      "Trimmed conversational preamble/postscript (372 chars before, 0 chars after)"
+    ]
+  }
+]

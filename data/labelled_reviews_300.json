@@ -1,0 +1,4460 @@
+[
+  {
+    "review_id": "REV_001",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Purchased this last week. Fantastic value for money. Performs just as well as models twice the price. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_002",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "I had mixed feelings before ordering. The battery drains completely within 3 hours, completely useless for travel. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "Battery / Charging Issue"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_003",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "I was really excited about this product. Constant Bluetooth dropouts every 10 minutes. Will not stay paired with my MacBook. Also, customer service refused to honor the warranty and was outright rude. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "customer_service",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue",
+      "Customer Support Issue"
+    ],
+    "review_length_words": 35
+  },
+  {
+    "review_id": "REV_004",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Upgraded to this model recently. The desktop software crashes constantly on Windows 11 and fails to detect the device. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "Software / Pairing Bug"
+    ],
+    "review_length_words": 22
+  },
+  {
+    "review_id": "REV_005",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "After using this for a month: Extremely tight clamping force gave me severe headaches after 20 minutes. Also, arrived two weeks late and the retail box was completely crushed. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "comfort",
+      "shipping_packaging"
+    ],
+    "gold_complaint_categories": [
+      "Late Delivery / Packaging Damage",
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 31
+  },
+  {
+    "review_id": "REV_006",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "After using this for a month: Good build quality but customer service took 5 days to respond to an inquiry. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "build_quality",
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue"
+    ],
+    "review_length_words": 23
+  },
+  {
+    "review_id": "REV_007",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "After using this for a month: The sound quality on this is phenomenal, crystal clear highs and deep bass. Also, brilliant microphone clarity for zoom meetings. my colleagues noticed the upgrade immediately. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "sound_quality",
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 34
+  },
+  {
+    "review_id": "REV_008",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Here is my honest take: Arrived two weeks late and the retail box was completely crushed. Also, extremely tight clamping force gave me severe headaches after 20 minutes. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "shipping_packaging",
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "Late Delivery / Packaging Damage",
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 31
+  },
+  {
+    "review_id": "REV_009",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Purchased this last week. Unbearably muddy audio with harsh treble that distorts at moderate volume. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "Audio / Sound Issue"
+    ],
+    "review_length_words": 18
+  },
+  {
+    "review_id": "REV_010",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Straight to the point: Unbearably muddy audio with harsh treble that distorts at moderate volume. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "Audio / Sound Issue"
+    ],
+    "review_length_words": 18
+  },
+  {
+    "review_id": "REV_011",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Honestly, The sound quality on this is phenomenal, crystal clear highs and deep bass. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 16
+  },
+  {
+    "review_id": "REV_012",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Honestly, Sound is okay and connection is fine, but for $150 I was hoping for something more premium. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 23
+  },
+  {
+    "review_id": "REV_013",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "After using this for a month: Brilliant microphone clarity for Zoom meetings. My colleagues noticed the upgrade immediately. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_014",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Purchased this last week. Charging port stopped working after a month; only charges when holding the cable at an angle. Also, arrived two weeks late and the retail box was completely crushed. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "shipping_packaging",
+      "build_quality",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "Late Delivery / Packaging Damage",
+      "Battery / Charging Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 35
+  },
+  {
+    "review_id": "REV_015",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "I was really excited about this product. Pairs instantly with my phone and laptop. Zero latency and stable connection across my apartment. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_016",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Honestly, Battery life exceeded my expectations, easily lasts two full days on a single charge. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_017",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Honestly, Customer support was incredibly responsive when I asked a compatibility question. Also, battery life exceeded my expectations, easily lasts two full days on a single charge. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "customer_service",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 29
+  },
+  {
+    "review_id": "REV_018",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "My experience so far: Decent hardware construction, but the software feels half-baked and confusing. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "build_quality",
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "Software / Pairing Bug"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_019",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "I had mixed feelings before ordering. Arrived two weeks late and the retail box was completely crushed. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "shipping_packaging"
+    ],
+    "gold_complaint_categories": [
+      "Late Delivery / Packaging Damage"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_020",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "I had mixed feelings before ordering. Premium build quality. The aluminum finish feels sturdy, luxurious, and durable. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_021",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Purchased this last week. The sound quality on this is phenomenal, crystal clear highs and deep bass. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_022",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "I had mixed feelings before ordering. The battery drains completely within 3 hours, completely useless for travel. Also, constant bluetooth dropouts every 10 minutes. will not stay paired with my macbook. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "connectivity",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue",
+      "Battery / Charging Issue"
+    ],
+    "review_length_words": 34
+  },
+  {
+    "review_id": "REV_023",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "My experience so far: Decent hardware construction, but the software feels half-baked and confusing. Just middle of the road.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "build_quality",
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "Software / Pairing Bug"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_024",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Straight to the point: Fantastic value for money. Performs just as well as models twice the price. Also, brilliant microphone clarity for zoom meetings. my colleagues noticed the upgrade immediately. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "price_value",
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 36
+  },
+  {
+    "review_id": "REV_025",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "After using this for a month: Battery life exceeded my expectations, easily lasts two full days on a single charge. Also, fantastic value for money. performs just as well as models twice the price. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "price_value",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 40
+  },
+  {
+    "review_id": "REV_026",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "After using this for a month: Brilliant microphone clarity for Zoom meetings. My colleagues noticed the upgrade immediately. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_027",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Here is my honest take: Constant Bluetooth dropouts every 10 minutes. Will not stay paired with my MacBook. Also, painful wrist cramps and glitchy cursor tracking on standard mousepads. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "tracking",
+      "comfort",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue",
+      "Build Quality / Durability Flaw",
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 31
+  },
+  {
+    "review_id": "REV_028",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Purchased this last week. The plastic headband snapped after just three weeks of normal use. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 17
+  },
+  {
+    "review_id": "REV_029",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Straight to the point: The companion mobile app is intuitive and makes firmware updates seamless. Also, battery life exceeded my expectations, easily lasts two full days on a single charge. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 32
+  },
+  {
+    "review_id": "REV_030",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Upgraded to this model recently. Brilliant microphone clarity for Zoom meetings. My colleagues noticed the upgrade immediately. Also, customer support was incredibly responsive when i asked a compatibility question. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "mic_quality",
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 35
+  },
+  {
+    "review_id": "REV_031",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Honestly, The audio is decent for podcasts, but battery life is strictly average at around 6 hours. Just middle of the road.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 22
+  },
+  {
+    "review_id": "REV_032",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Purchased this last week. Premium build quality. The aluminum finish feels sturdy, luxurious, and durable. Also, brilliant microphone clarity for zoom meetings. my colleagues noticed the upgrade immediately. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "mic_quality",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 30
+  },
+  {
+    "review_id": "REV_033",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Here is my honest take: The companion mobile app is intuitive and makes firmware updates seamless. Also, pairs instantly with my phone and laptop. zero latency and stable connection across my apartment. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 38
+  },
+  {
+    "review_id": "REV_034",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Honestly, Customer support was incredibly responsive when I asked a compatibility question. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 14
+  },
+  {
+    "review_id": "REV_035",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "After using this for a month: Extremely tight clamping force gave me severe headaches after 20 minutes. Also, the desktop software crashes constantly on windows 11 and fails to detect the device. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "software",
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "Software / Pairing Bug",
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 34
+  },
+  {
+    "review_id": "REV_036",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Purchased this last week. The desktop software crashes constantly on Windows 11 and fails to detect the device. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "Software / Pairing Bug"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_037",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "I had mixed feelings before ordering. Premium build quality. The aluminum finish feels sturdy, luxurious, and durable. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 23
+  },
+  {
+    "review_id": "REV_038",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Long-time user review: The battery drains completely within 3 hours, completely useless for travel. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "Battery / Charging Issue"
+    ],
+    "review_length_words": 17
+  },
+  {
+    "review_id": "REV_039",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Long-time user review: Brilliant microphone clarity for Zoom meetings. My colleagues noticed the upgrade immediately. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 17
+  },
+  {
+    "review_id": "REV_040",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "I had mixed feelings before ordering. Brilliant microphone clarity for Zoom meetings. My colleagues noticed the upgrade immediately. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_041",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "I was really excited about this product. Pairs instantly with my phone and laptop. Zero latency and stable connection across my apartment. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_042",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "After using this for a month: Comfort is acceptable, though it gets a little warm after an hour of use. Just middle of the road.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 25
+  },
+  {
+    "review_id": "REV_043",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "I had mixed feelings before ordering. Good build quality but customer service took 5 days to respond to an inquiry. Just middle of the road.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "build_quality",
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue"
+    ],
+    "review_length_words": 25
+  },
+  {
+    "review_id": "REV_044",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "My experience so far: The battery drains completely within 3 hours, completely useless for travel. Also, unbearably muddy audio with harsh treble that distorts at moderate volume. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "Battery / Charging Issue",
+      "Audio / Sound Issue"
+    ],
+    "review_length_words": 30
+  },
+  {
+    "review_id": "REV_045",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Purchased this last week. Decent hardware construction, but the software feels half-baked and confusing. Just middle of the road.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "build_quality",
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "Software / Pairing Bug"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_046",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "I was really excited about this product. Comfort is acceptable, though it gets a little warm after an hour of use. Just middle of the road.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 26
+  },
+  {
+    "review_id": "REV_047",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Honestly, The desktop software crashes constantly on Windows 11 and fails to detect the device. Also, extremely tight clamping force gave me severe headaches after 20 minutes. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "software",
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "Software / Pairing Bug",
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 30
+  },
+  {
+    "review_id": "REV_048",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Straight to the point: Way overpriced for what you get. Cheap materials and mediocre performance. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 18
+  },
+  {
+    "review_id": "REV_049",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Honestly, Fast shipping and eco-friendly packaging. Everything arrived in immaculate condition. Also, customer support was incredibly responsive when i asked a compatibility question. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "shipping_packaging",
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 29
+  },
+  {
+    "review_id": "REV_050",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Honestly, Sound is okay and connection is fine, but for $150 I was hoping for something more premium. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_051",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "I was really excited about this product. Unbearably muddy audio with harsh treble that distorts at moderate volume. Also, extremely tight clamping force gave me severe headaches after 20 minutes. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality",
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "Audio / Sound Issue",
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 33
+  },
+  {
+    "review_id": "REV_052",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Here is my honest take: Customer support was incredibly responsive when I asked a compatibility question. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 22
+  },
+  {
+    "review_id": "REV_053",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "I was really excited about this product. Good display clarity but the stand is a bit wobbly on my desk. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "display",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 23
+  },
+  {
+    "review_id": "REV_054",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Here is my honest take: The companion mobile app is intuitive and makes firmware updates seamless. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 18
+  },
+  {
+    "review_id": "REV_055",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "I was really excited about this product. The audio is decent for podcasts, but battery life is strictly average at around 6 hours. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 28
+  },
+  {
+    "review_id": "REV_056",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Here is my honest take: Customer support was incredibly responsive when I asked a compatibility question. Also, the sound quality on this is phenomenal, crystal clear highs and deep bass. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "sound_quality",
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 32
+  },
+  {
+    "review_id": "REV_057",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "I had mixed feelings before ordering. Way overpriced for what you get. Cheap materials and mediocre performance. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_058",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "I had mixed feelings before ordering. Charging port stopped working after a month; only charges when holding the cable at an angle. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "battery_life",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "Battery / Charging Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_059",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Straight to the point: Fantastic value for money. Performs just as well as models twice the price. Also, super comfortable even during 8-hour work sessions. the memory foam padding is a game changer. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "comfort",
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 35
+  },
+  {
+    "review_id": "REV_060",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Straight to the point: Constant Bluetooth dropouts every 10 minutes. Will not stay paired with my MacBook. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_061",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "I had mixed feelings before ordering. The sound quality on this is phenomenal, crystal clear highs and deep bass. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_062",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "I was really excited about this product. The plastic headband snapped after just three weeks of normal use. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_063",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Straight to the point: Fantastic value for money. Performs just as well as models twice the price. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 23
+  },
+  {
+    "review_id": "REV_064",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Purchased this last week. Pairs instantly with my phone and laptop. Zero latency and stable connection across my apartment. Also, brilliant microphone clarity for zoom meetings. my colleagues noticed the upgrade immediately. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "mic_quality",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 34
+  },
+  {
+    "review_id": "REV_065",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "I had mixed feelings before ordering. Arrived two weeks late and the retail box was completely crushed. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "shipping_packaging"
+    ],
+    "gold_complaint_categories": [
+      "Late Delivery / Packaging Damage"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_066",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Purchased this last week. The companion mobile app is intuitive and makes firmware updates seamless. Also, battery life exceeded my expectations, easily lasts two full days on a single charge. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 32
+  },
+  {
+    "review_id": "REV_067",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "After using this for a month: Painful wrist cramps and glitchy cursor tracking on standard mousepads. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "comfort",
+      "tracking"
+    ],
+    "gold_complaint_categories": [
+      "Comfort / Fit Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 18
+  },
+  {
+    "review_id": "REV_068",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Straight to the point: Battery life exceeded my expectations, easily lasts two full days on a single charge. Also, the companion mobile app is intuitive and makes firmware updates seamless. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 32
+  },
+  {
+    "review_id": "REV_069",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "After using this for a month: The companion mobile app is intuitive and makes firmware updates seamless. Also, premium build quality. the aluminum finish feels sturdy, luxurious, and durable. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 35
+  },
+  {
+    "review_id": "REV_070",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "I had mixed feelings before ordering. Brilliant microphone clarity for Zoom meetings. My colleagues noticed the upgrade immediately. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_071",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "I had mixed feelings before ordering. The sound quality on this is phenomenal, crystal clear highs and deep bass. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_072",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "I was really excited about this product. The companion mobile app is intuitive and makes firmware updates seamless. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_073",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "I was really excited about this product. Sound is okay and connection is fine, but for $150 I was hoping for something more premium. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 29
+  },
+  {
+    "review_id": "REV_074",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "My experience so far: Arrived two weeks late and the retail box was completely crushed. Also, the desktop software crashes constantly on windows 11 and fails to detect the device. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "software",
+      "shipping_packaging"
+    ],
+    "gold_complaint_categories": [
+      "Late Delivery / Packaging Damage",
+      "Software / Pairing Bug"
+    ],
+    "review_length_words": 33
+  },
+  {
+    "review_id": "REV_075",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "I was really excited about this product. Horrible static buzzing noise whenever ANC is enabled and Bluetooth is active. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Audio / Sound Issue",
+      "Connectivity / Bluetooth Issue"
+    ],
+    "review_length_words": 22
+  },
+  {
+    "review_id": "REV_076",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Long-time user review: Painful wrist cramps and glitchy cursor tracking on standard mousepads. Also, constant bluetooth dropouts every 10 minutes. will not stay paired with my macbook. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "tracking",
+      "comfort",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue",
+      "Build Quality / Durability Flaw",
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 30
+  },
+  {
+    "review_id": "REV_077",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Honestly, Horrible static buzzing noise whenever ANC is enabled and Bluetooth is active. Also, charging port stopped working after a month; only charges when holding the cable at an angle. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality",
+      "build_quality",
+      "connectivity",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue",
+      "Battery / Charging Issue",
+      "Audio / Sound Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 32
+  },
+  {
+    "review_id": "REV_078",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "I was really excited about this product. Fantastic value for money. Performs just as well as models twice the price. Also, pairs instantly with my phone and laptop. zero latency and stable connection across my apartment. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "price_value",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 38
+  },
+  {
+    "review_id": "REV_079",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Straight to the point: Charging port stopped working after a month; only charges when holding the cable at an angle. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "battery_life",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "Battery / Charging Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 23
+  },
+  {
+    "review_id": "REV_080",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "After using this for a month: Brilliant microphone clarity for Zoom meetings. My colleagues noticed the upgrade immediately. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_081",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Long-time user review: Fast shipping and eco-friendly packaging. Everything arrived in immaculate condition. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "shipping_packaging"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_082",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Long-time user review: Decent hardware construction, but the software feels half-baked and confusing. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "build_quality",
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "Software / Pairing Bug"
+    ],
+    "review_length_words": 16
+  },
+  {
+    "review_id": "REV_083",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Long-time user review: Super comfortable even during 8-hour work sessions. The memory foam padding is a game changer. Also, premium build quality. the aluminum finish feels sturdy, luxurious, and durable. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "comfort",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 36
+  },
+  {
+    "review_id": "REV_084",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Purchased this last week. Brilliant microphone clarity for Zoom meetings. My colleagues noticed the upgrade immediately. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 18
+  },
+  {
+    "review_id": "REV_085",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "After using this for a month: Pairs instantly with my phone and laptop. Zero latency and stable connection across my apartment. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 27
+  },
+  {
+    "review_id": "REV_086",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "I was really excited about this product. Super comfortable even during 8-hour work sessions. The memory foam padding is a game changer. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_087",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "After using this for a month: Fantastic value for money. Performs just as well as models twice the price. Also, the companion mobile app is intuitive and makes firmware updates seamless. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software",
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 33
+  },
+  {
+    "review_id": "REV_088",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Long-time user review: The desktop software crashes constantly on Windows 11 and fails to detect the device. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "Software / Pairing Bug"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_089",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "I was really excited about this product. The audio is decent for podcasts, but battery life is strictly average at around 6 hours. Just middle of the road.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 28
+  },
+  {
+    "review_id": "REV_090",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "I had mixed feelings before ordering. The plastic headband snapped after just three weeks of normal use. Also, constant bluetooth dropouts every 10 minutes. will not stay paired with my macbook. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "connectivity",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 34
+  },
+  {
+    "review_id": "REV_091",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Long-time user review: Extremely tight clamping force gave me severe headaches after 20 minutes. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 16
+  },
+  {
+    "review_id": "REV_092",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Here is my honest take: Customer support was incredibly responsive when I asked a compatibility question. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 22
+  },
+  {
+    "review_id": "REV_093",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Upgraded to this model recently. It works as advertised, nothing spectacular but gets the job done for the price. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "price_value",
+      "general"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_094",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "After using this for a month: The companion mobile app is intuitive and makes firmware updates seamless. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_095",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "I was really excited about this product. Arrived two weeks late and the retail box was completely crushed. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "shipping_packaging"
+    ],
+    "gold_complaint_categories": [
+      "Late Delivery / Packaging Damage"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_096",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Straight to the point: The companion mobile app is intuitive and makes firmware updates seamless. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 17
+  },
+  {
+    "review_id": "REV_097",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "After using this for a month: Customer service refused to honor the warranty and was outright rude. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_098",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Purchased this last week. Sound is okay and connection is fine, but for $150 I was hoping for something more premium. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_099",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "I was really excited about this product. Brilliant microphone clarity for Zoom meetings. My colleagues noticed the upgrade immediately. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_100",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "After using this for a month: Fantastic value for money. Performs just as well as models twice the price. Also, customer support was incredibly responsive when i asked a compatibility question. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "price_value",
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 33
+  },
+  {
+    "review_id": "REV_101",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "I was really excited about this product. The sound quality on this is phenomenal, crystal clear highs and deep bass. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 26
+  },
+  {
+    "review_id": "REV_102",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Here is my honest take: Constant Bluetooth dropouts every 10 minutes. Will not stay paired with my MacBook. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_103",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Long-time user review: Sound is okay and connection is fine, but for $150 I was hoping for something more premium. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 25
+  },
+  {
+    "review_id": "REV_104",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Here is my honest take: Arrived two weeks late and the retail box was completely crushed. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "shipping_packaging"
+    ],
+    "gold_complaint_categories": [
+      "Late Delivery / Packaging Damage"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_105",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "I had mixed feelings before ordering. Customer service refused to honor the warranty and was outright rude. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_106",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Honestly, Extremely tight clamping force gave me severe headaches after 20 minutes. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 15
+  },
+  {
+    "review_id": "REV_107",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Purchased this last week. Fast shipping and eco-friendly packaging. Everything arrived in immaculate condition. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "shipping_packaging"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 16
+  },
+  {
+    "review_id": "REV_108",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "My experience so far: Super comfortable even during 8-hour work sessions. The memory foam padding is a game changer. Also, the companion mobile app is intuitive and makes firmware updates seamless. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software",
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 37
+  },
+  {
+    "review_id": "REV_109",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Long-time user review: Decent hardware construction, but the software feels half-baked and confusing. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "build_quality",
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "Software / Pairing Bug"
+    ],
+    "review_length_words": 16
+  },
+  {
+    "review_id": "REV_110",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Upgraded to this model recently. Charging port stopped working after a month; only charges when holding the cable at an angle. Also, horrible static buzzing noise whenever anc is enabled and bluetooth is active. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality",
+      "build_quality",
+      "connectivity",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue",
+      "Battery / Charging Issue",
+      "Audio / Sound Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 37
+  },
+  {
+    "review_id": "REV_111",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "My experience so far: Horrible static buzzing noise whenever ANC is enabled and Bluetooth is active. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Audio / Sound Issue",
+      "Connectivity / Bluetooth Issue"
+    ],
+    "review_length_words": 18
+  },
+  {
+    "review_id": "REV_112",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Here is my honest take: Battery life exceeded my expectations, easily lasts two full days on a single charge. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_113",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Upgraded to this model recently. Charging port stopped working after a month; only charges when holding the cable at an angle. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "battery_life",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "Battery / Charging Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_114",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Straight to the point: The plastic headband snapped after just three weeks of normal use. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 17
+  },
+  {
+    "review_id": "REV_115",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Long-time user review: Good display clarity but the stand is a bit wobbly on my desk. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "display",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_116",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Upgraded to this model recently. Sound is okay and connection is fine, but for $150 I was hoping for something more premium. Just middle of the road.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 27
+  },
+  {
+    "review_id": "REV_117",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Here is my honest take: The audio is decent for podcasts, but battery life is strictly average at around 6 hours. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 26
+  },
+  {
+    "review_id": "REV_118",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Long-time user review: Fast shipping and eco-friendly packaging. Everything arrived in immaculate condition. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "shipping_packaging"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 15
+  },
+  {
+    "review_id": "REV_119",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "I was really excited about this product. Painful wrist cramps and glitchy cursor tracking on standard mousepads. Also, unbearably muddy audio with harsh treble that distorts at moderate volume. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "tracking",
+      "comfort",
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "Build Quality / Durability Flaw",
+      "Audio / Sound Issue",
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 32
+  },
+  {
+    "review_id": "REV_120",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Upgraded to this model recently. Fast shipping and eco-friendly packaging. Everything arrived in immaculate condition. Also, brilliant microphone clarity for zoom meetings. my colleagues noticed the upgrade immediately. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "shipping_packaging",
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 30
+  },
+  {
+    "review_id": "REV_121",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Here is my honest take: Horrible static buzzing noise whenever ANC is enabled and Bluetooth is active. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Audio / Sound Issue",
+      "Connectivity / Bluetooth Issue"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_122",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Here is my honest take: The companion mobile app is intuitive and makes firmware updates seamless. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 22
+  },
+  {
+    "review_id": "REV_123",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "I was really excited about this product. Horrible static buzzing noise whenever ANC is enabled and Bluetooth is active. Also, the plastic headband snapped after just three weeks of normal use. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality",
+      "connectivity",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue",
+      "Audio / Sound Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 34
+  },
+  {
+    "review_id": "REV_124",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Honestly, Battery life exceeded my expectations, easily lasts two full days on a single charge. Also, pairs instantly with my phone and laptop. zero latency and stable connection across my apartment. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "connectivity",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 33
+  },
+  {
+    "review_id": "REV_125",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Upgraded to this model recently. Good build quality but customer service took 5 days to respond to an inquiry. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "build_quality",
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue"
+    ],
+    "review_length_words": 22
+  },
+  {
+    "review_id": "REV_126",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "After using this for a month: Premium build quality. The aluminum finish feels sturdy, luxurious, and durable. Also, battery life exceeded my expectations, easily lasts two full days on a single charge. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "battery_life",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 34
+  },
+  {
+    "review_id": "REV_127",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "I was really excited about this product. Unbearably muddy audio with harsh treble that distorts at moderate volume. Also, the desktop software crashes constantly on windows 11 and fails to detect the device. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "software",
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "Audio / Sound Issue",
+      "Software / Pairing Bug"
+    ],
+    "review_length_words": 36
+  },
+  {
+    "review_id": "REV_128",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Long-time user review: Pairs instantly with my phone and laptop. Zero latency and stable connection across my apartment. Also, fantastic value for money. performs just as well as models twice the price. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "price_value",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 38
+  },
+  {
+    "review_id": "REV_129",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Here is my honest take: Pairs instantly with my phone and laptop. Zero latency and stable connection across my apartment. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 26
+  },
+  {
+    "review_id": "REV_130",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Long-time user review: Brilliant microphone clarity for Zoom meetings. My colleagues noticed the upgrade immediately. Also, battery life exceeded my expectations, easily lasts two full days on a single charge. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "mic_quality",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 32
+  },
+  {
+    "review_id": "REV_131",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Purchased this last week. Fantastic value for money. Performs just as well as models twice the price. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_132",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Long-time user review: It works as advertised, nothing spectacular but gets the job done for the price. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "price_value",
+      "general"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 22
+  },
+  {
+    "review_id": "REV_133",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "I was really excited about this product. The companion mobile app is intuitive and makes firmware updates seamless. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_134",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Long-time user review: Premium build quality. The aluminum finish feels sturdy, luxurious, and durable. Also, super comfortable even during 8-hour work sessions. the memory foam padding is a game changer. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "comfort",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 32
+  },
+  {
+    "review_id": "REV_135",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Upgraded to this model recently. Good display clarity but the stand is a bit wobbly on my desk. Just middle of the road.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "display",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 23
+  },
+  {
+    "review_id": "REV_136",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Upgraded to this model recently. Fast shipping and eco-friendly packaging. Everything arrived in immaculate condition. Also, pairs instantly with my phone and laptop. zero latency and stable connection across my apartment. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "shipping_packaging",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 33
+  },
+  {
+    "review_id": "REV_137",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "I was really excited about this product. Extremely tight clamping force gave me severe headaches after 20 minutes. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_138",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Honestly, Charging port stopped working after a month; only charges when holding the cable at an angle. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "battery_life",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "Battery / Charging Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_139",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "My experience so far: The desktop software crashes constantly on Windows 11 and fails to detect the device. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "Software / Pairing Bug"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_140",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "After using this for a month: Unbearably muddy audio with harsh treble that distorts at moderate volume. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "Audio / Sound Issue"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_141",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Purchased this last week. Comfort is acceptable, though it gets a little warm after an hour of use. Just middle of the road.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 23
+  },
+  {
+    "review_id": "REV_142",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "I had mixed feelings before ordering. Unbearably muddy audio with harsh treble that distorts at moderate volume. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "Audio / Sound Issue"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_143",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "I was really excited about this product. Horrible static buzzing noise whenever ANC is enabled and Bluetooth is active. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Audio / Sound Issue",
+      "Connectivity / Bluetooth Issue"
+    ],
+    "review_length_words": 22
+  },
+  {
+    "review_id": "REV_144",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "After using this for a month: Way overpriced for what you get. Cheap materials and mediocre performance. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_145",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Honestly, Battery lasts about what the box claims. Neither blown away nor disappointed. Just middle of the road.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 18
+  },
+  {
+    "review_id": "REV_146",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Honestly, Extremely tight clamping force gave me severe headaches after 20 minutes. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 14
+  },
+  {
+    "review_id": "REV_147",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Here is my honest take: Customer support was incredibly responsive when I asked a compatibility question. Also, the companion mobile app is intuitive and makes firmware updates seamless. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software",
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 34
+  },
+  {
+    "review_id": "REV_148",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Purchased this last week. The sound quality on this is phenomenal, crystal clear highs and deep bass. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 23
+  },
+  {
+    "review_id": "REV_149",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Long-time user review: Horrible static buzzing noise whenever ANC is enabled and Bluetooth is active. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Audio / Sound Issue",
+      "Connectivity / Bluetooth Issue"
+    ],
+    "review_length_words": 17
+  },
+  {
+    "review_id": "REV_150",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "I had mixed feelings before ordering. Extremely tight clamping force gave me severe headaches after 20 minutes. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_151",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "I was really excited about this product. Customer service refused to honor the warranty and was outright rude. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_152",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Long-time user review: Sound is okay and connection is fine, but for $150 I was hoping for something more premium. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 23
+  },
+  {
+    "review_id": "REV_153",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Honestly, The battery drains completely within 3 hours, completely useless for travel. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "Battery / Charging Issue"
+    ],
+    "review_length_words": 14
+  },
+  {
+    "review_id": "REV_154",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "I had mixed feelings before ordering. Super comfortable even during 8-hour work sessions. The memory foam padding is a game changer. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 23
+  },
+  {
+    "review_id": "REV_155",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Long-time user review: Unbearably muddy audio with harsh treble that distorts at moderate volume. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "Audio / Sound Issue"
+    ],
+    "review_length_words": 16
+  },
+  {
+    "review_id": "REV_156",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Purchased this last week. Constant Bluetooth dropouts every 10 minutes. Will not stay paired with my MacBook. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_157",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "I was really excited about this product. Pairs instantly with my phone and laptop. Zero latency and stable connection across my apartment. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 28
+  },
+  {
+    "review_id": "REV_158",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Long-time user review: Battery life exceeded my expectations, easily lasts two full days on a single charge. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_159",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "After using this for a month: Comfort is acceptable, though it gets a little warm after an hour of use. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 23
+  },
+  {
+    "review_id": "REV_160",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "I was really excited about this product. The sound quality on this is phenomenal, crystal clear highs and deep bass. Also, brilliant microphone clarity for zoom meetings. my colleagues noticed the upgrade immediately. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "sound_quality",
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 39
+  },
+  {
+    "review_id": "REV_161",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Upgraded to this model recently. Super comfortable even during 8-hour work sessions. The memory foam padding is a game changer. Also, brilliant microphone clarity for zoom meetings. my colleagues noticed the upgrade immediately. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "comfort",
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 39
+  },
+  {
+    "review_id": "REV_162",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "After using this for a month: It works as advertised, nothing spectacular but gets the job done for the price. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "price_value",
+      "general"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 23
+  },
+  {
+    "review_id": "REV_163",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Honestly, Customer service refused to honor the warranty and was outright rude. Also, horrible static buzzing noise whenever anc is enabled and bluetooth is active. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality",
+      "customer_service",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue",
+      "Customer Support Issue",
+      "Audio / Sound Issue"
+    ],
+    "review_length_words": 28
+  },
+  {
+    "review_id": "REV_164",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Straight to the point: Painful wrist cramps and glitchy cursor tracking on standard mousepads. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "comfort",
+      "tracking"
+    ],
+    "gold_complaint_categories": [
+      "Comfort / Fit Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 17
+  },
+  {
+    "review_id": "REV_165",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Purchased this last week. Constant Bluetooth dropouts every 10 minutes. Will not stay paired with my MacBook. Also, the plastic headband snapped after just three weeks of normal use. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "connectivity",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 32
+  },
+  {
+    "review_id": "REV_166",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Upgraded to this model recently. Painful wrist cramps and glitchy cursor tracking on standard mousepads. Also, unbearably muddy audio with harsh treble that distorts at moderate volume. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "tracking",
+      "comfort",
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "Build Quality / Durability Flaw",
+      "Audio / Sound Issue",
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 30
+  },
+  {
+    "review_id": "REV_167",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Purchased this last week. Charging port stopped working after a month; only charges when holding the cable at an angle. Also, the desktop software crashes constantly on windows 11 and fails to detect the device. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "software",
+      "build_quality",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "Battery / Charging Issue",
+      "Software / Pairing Bug",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 38
+  },
+  {
+    "review_id": "REV_168",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Here is my honest take: The battery drains completely within 3 hours, completely useless for travel. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "Battery / Charging Issue"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_169",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "I was really excited about this product. Good display clarity but the stand is a bit wobbly on my desk. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "display",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 23
+  },
+  {
+    "review_id": "REV_170",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Here is my honest take: Painful wrist cramps and glitchy cursor tracking on standard mousepads. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "comfort",
+      "tracking"
+    ],
+    "gold_complaint_categories": [
+      "Comfort / Fit Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 18
+  },
+  {
+    "review_id": "REV_171",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Purchased this last week. Way overpriced for what you get. Cheap materials and mediocre performance. Also, horrible static buzzing noise whenever anc is enabled and bluetooth is active. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality",
+      "price_value",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue",
+      "Audio / Sound Issue",
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 31
+  },
+  {
+    "review_id": "REV_172",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "After using this for a month: Battery life exceeded my expectations, easily lasts two full days on a single charge. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 22
+  },
+  {
+    "review_id": "REV_173",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Upgraded to this model recently. Extremely tight clamping force gave me severe headaches after 20 minutes. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_174",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "After using this for a month: Super comfortable even during 8-hour work sessions. The memory foam padding is a game changer. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 23
+  },
+  {
+    "review_id": "REV_175",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Straight to the point: Unbearably muddy audio with harsh treble that distorts at moderate volume. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "Audio / Sound Issue"
+    ],
+    "review_length_words": 17
+  },
+  {
+    "review_id": "REV_176",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Long-time user review: The sound quality on this is phenomenal, crystal clear highs and deep bass. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 18
+  },
+  {
+    "review_id": "REV_177",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Here is my honest take: Extremely tight clamping force gave me severe headaches after 20 minutes. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_178",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "My experience so far: Premium build quality. The aluminum finish feels sturdy, luxurious, and durable. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_179",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "I had mixed feelings before ordering. Pairs instantly with my phone and laptop. Zero latency and stable connection across my apartment. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 23
+  },
+  {
+    "review_id": "REV_180",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "I was really excited about this product. Fantastic value for money. Performs just as well as models twice the price. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 22
+  },
+  {
+    "review_id": "REV_181",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Long-time user review: Pairs instantly with my phone and laptop. Zero latency and stable connection across my apartment. Also, super comfortable even during 8-hour work sessions. the memory foam padding is a game changer. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "comfort",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 36
+  },
+  {
+    "review_id": "REV_182",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Here is my honest take: Painful wrist cramps and glitchy cursor tracking on standard mousepads. Also, customer service refused to honor the warranty and was outright rude. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "tracking",
+      "comfort",
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue",
+      "Build Quality / Durability Flaw",
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 29
+  },
+  {
+    "review_id": "REV_183",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "I was really excited about this product. Customer service refused to honor the warranty and was outright rude. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_184",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Honestly, Charging port stopped working after a month; only charges when holding the cable at an angle. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "battery_life",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "Battery / Charging Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_185",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Honestly, Premium build quality. The aluminum finish feels sturdy, luxurious, and durable. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 14
+  },
+  {
+    "review_id": "REV_186",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Upgraded to this model recently. Horrible static buzzing noise whenever ANC is enabled and Bluetooth is active. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Audio / Sound Issue",
+      "Connectivity / Bluetooth Issue"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_187",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Honestly, Good build quality but customer service took 5 days to respond to an inquiry. Just middle of the road.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "build_quality",
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_188",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "I was really excited about this product. Unbearably muddy audio with harsh treble that distorts at moderate volume. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "Audio / Sound Issue"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_189",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Honestly, Way overpriced for what you get. Cheap materials and mediocre performance. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 15
+  },
+  {
+    "review_id": "REV_190",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Here is my honest take: Customer service refused to honor the warranty and was outright rude. Also, the desktop software crashes constantly on windows 11 and fails to detect the device. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "software",
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue",
+      "Software / Pairing Bug"
+    ],
+    "review_length_words": 34
+  },
+  {
+    "review_id": "REV_191",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "After using this for a month: Customer service refused to honor the warranty and was outright rude. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_192",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Long-time user review: Sound is okay and connection is fine, but for $150 I was hoping for something more premium. Just middle of the road.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 25
+  },
+  {
+    "review_id": "REV_193",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Honestly, Constant Bluetooth dropouts every 10 minutes. Will not stay paired with my MacBook. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue"
+    ],
+    "review_length_words": 16
+  },
+  {
+    "review_id": "REV_194",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Here is my honest take: Charging port stopped working after a month; only charges when holding the cable at an angle. Also, horrible static buzzing noise whenever anc is enabled and bluetooth is active. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality",
+      "build_quality",
+      "connectivity",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue",
+      "Battery / Charging Issue",
+      "Audio / Sound Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 36
+  },
+  {
+    "review_id": "REV_195",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "After using this for a month: Brilliant microphone clarity for Zoom meetings. My colleagues noticed the upgrade immediately. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_196",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Here is my honest take: Good build quality but customer service took 5 days to respond to an inquiry. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "build_quality",
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_197",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Honestly, Customer support was incredibly responsive when I asked a compatibility question. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 14
+  },
+  {
+    "review_id": "REV_198",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Long-time user review: Premium build quality. The aluminum finish feels sturdy, luxurious, and durable. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 16
+  },
+  {
+    "review_id": "REV_199",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "After using this for a month: Battery lasts about what the box claims. Neither blown away nor disappointed. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_200",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Here is my honest take: Super comfortable even during 8-hour work sessions. The memory foam padding is a game changer. Also, fantastic value for money. performs just as well as models twice the price. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "comfort",
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 40
+  },
+  {
+    "review_id": "REV_201",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "After using this for a month: The sound quality on this is phenomenal, crystal clear highs and deep bass. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_202",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Straight to the point: Pairs instantly with my phone and laptop. Zero latency and stable connection across my apartment. Also, the sound quality on this is phenomenal, crystal clear highs and deep bass. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "sound_quality",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 35
+  },
+  {
+    "review_id": "REV_203",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "My experience so far: Painful wrist cramps and glitchy cursor tracking on standard mousepads. Also, unbearably muddy audio with harsh treble that distorts at moderate volume. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "tracking",
+      "comfort",
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "Build Quality / Durability Flaw",
+      "Audio / Sound Issue",
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 29
+  },
+  {
+    "review_id": "REV_204",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Purchased this last week. Constant Bluetooth dropouts every 10 minutes. Will not stay paired with my MacBook. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_205",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Here is my honest take: Sound is okay and connection is fine, but for $150 I was hoping for something more premium. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 27
+  },
+  {
+    "review_id": "REV_206",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "After using this for a month: The companion mobile app is intuitive and makes firmware updates seamless. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_207",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "I had mixed feelings before ordering. Way overpriced for what you get. Cheap materials and mediocre performance. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_208",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Upgraded to this model recently. Constant Bluetooth dropouts every 10 minutes. Will not stay paired with my MacBook. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_209",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "I had mixed feelings before ordering. Customer support was incredibly responsive when I asked a compatibility question. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 23
+  },
+  {
+    "review_id": "REV_210",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Straight to the point: Sound is okay and connection is fine, but for $150 I was hoping for something more premium. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 26
+  },
+  {
+    "review_id": "REV_211",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "I had mixed feelings before ordering. Premium build quality. The aluminum finish feels sturdy, luxurious, and durable. Also, the sound quality on this is phenomenal, crystal clear highs and deep bass. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "sound_quality",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 37
+  },
+  {
+    "review_id": "REV_212",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Purchased this last week. Horrible static buzzing noise whenever ANC is enabled and Bluetooth is active. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Audio / Sound Issue",
+      "Connectivity / Bluetooth Issue"
+    ],
+    "review_length_words": 18
+  },
+  {
+    "review_id": "REV_213",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Purchased this last week. Battery life exceeded my expectations, easily lasts two full days on a single charge. Also, customer support was incredibly responsive when i asked a compatibility question. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "customer_service",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 36
+  },
+  {
+    "review_id": "REV_214",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "After using this for a month: Pairs instantly with my phone and laptop. Zero latency and stable connection across my apartment. Also, fantastic value for money. performs just as well as models twice the price. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "price_value",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 41
+  },
+  {
+    "review_id": "REV_215",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "My experience so far: Customer service refused to honor the warranty and was outright rude. Also, the battery drains completely within 3 hours, completely useless for travel. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "customer_service",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue",
+      "Battery / Charging Issue"
+    ],
+    "review_length_words": 30
+  },
+  {
+    "review_id": "REV_216",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Long-time user review: Brilliant microphone clarity for Zoom meetings. My colleagues noticed the upgrade immediately. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_217",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "After using this for a month: Charging port stopped working after a month; only charges when holding the cable at an angle. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "battery_life",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "Battery / Charging Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_218",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "My experience so far: Decent hardware construction, but the software feels half-baked and confusing. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "build_quality",
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "Software / Pairing Bug"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_219",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Purchased this last week. Fast shipping and eco-friendly packaging. Everything arrived in immaculate condition. Also, battery life exceeded my expectations, easily lasts two full days on a single charge. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "shipping_packaging",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 35
+  },
+  {
+    "review_id": "REV_220",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Straight to the point: Pairs instantly with my phone and laptop. Zero latency and stable connection across my apartment. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_221",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "I had mixed feelings before ordering. Battery lasts about what the box claims. Neither blown away nor disappointed. Just middle of the road.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 23
+  },
+  {
+    "review_id": "REV_222",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "I was really excited about this product. Constant Bluetooth dropouts every 10 minutes. Will not stay paired with my MacBook. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue"
+    ],
+    "review_length_words": 22
+  },
+  {
+    "review_id": "REV_223",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "I had mixed feelings before ordering. Brilliant microphone clarity for Zoom meetings. My colleagues noticed the upgrade immediately. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_224",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "I was really excited about this product. Customer service refused to honor the warranty and was outright rude. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_225",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "I had mixed feelings before ordering. Painful wrist cramps and glitchy cursor tracking on standard mousepads. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "comfort",
+      "tracking"
+    ],
+    "gold_complaint_categories": [
+      "Comfort / Fit Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 18
+  },
+  {
+    "review_id": "REV_226",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "After using this for a month: Comfort is acceptable, though it gets a little warm after an hour of use. Just middle of the road.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 25
+  },
+  {
+    "review_id": "REV_227",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Straight to the point: Comfort is acceptable, though it gets a little warm after an hour of use. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_228",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "I was really excited about this product. Arrived two weeks late and the retail box was completely crushed. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "shipping_packaging"
+    ],
+    "gold_complaint_categories": [
+      "Late Delivery / Packaging Damage"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_229",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Here is my honest take: Decent hardware construction, but the software feels half-baked and confusing. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "build_quality",
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "Software / Pairing Bug"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_230",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Upgraded to this model recently. Unbearably muddy audio with harsh treble that distorts at moderate volume. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "Audio / Sound Issue"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_231",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "I had mixed feelings before ordering. It works as advertised, nothing spectacular but gets the job done for the price. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "price_value",
+      "general"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 25
+  },
+  {
+    "review_id": "REV_232",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Upgraded to this model recently. Charging port stopped working after a month; only charges when holding the cable at an angle. Also, the desktop software crashes constantly on windows 11 and fails to detect the device. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "software",
+      "build_quality",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "Battery / Charging Issue",
+      "Software / Pairing Bug",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 39
+  },
+  {
+    "review_id": "REV_233",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "My experience so far: Arrived two weeks late and the retail box was completely crushed. Also, charging port stopped working after a month; only charges when holding the cable at an angle. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "shipping_packaging",
+      "build_quality",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "Late Delivery / Packaging Damage",
+      "Battery / Charging Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 35
+  },
+  {
+    "review_id": "REV_234",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Upgraded to this model recently. The audio is decent for podcasts, but battery life is strictly average at around 6 hours. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_235",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "I was really excited about this product. Good build quality but customer service took 5 days to respond to an inquiry. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "build_quality",
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue"
+    ],
+    "review_length_words": 26
+  },
+  {
+    "review_id": "REV_236",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "After using this for a month: Customer service refused to honor the warranty and was outright rude. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_237",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "I was really excited about this product. The companion mobile app is intuitive and makes firmware updates seamless. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_238",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "After using this for a month: Way overpriced for what you get. Cheap materials and mediocre performance. Also, painful wrist cramps and glitchy cursor tracking on standard mousepads. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "tracking",
+      "comfort",
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "Build Quality / Durability Flaw",
+      "Overpriced / Poor Value",
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 30
+  },
+  {
+    "review_id": "REV_239",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "My experience so far: The companion mobile app is intuitive and makes firmware updates seamless. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 17
+  },
+  {
+    "review_id": "REV_240",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Long-time user review: Pairs instantly with my phone and laptop. Zero latency and stable connection across my apartment. Also, the sound quality on this is phenomenal, crystal clear highs and deep bass. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "sound_quality",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 34
+  },
+  {
+    "review_id": "REV_241",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Upgraded to this model recently. Customer service refused to honor the warranty and was outright rude. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_242",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Here is my honest take: Horrible static buzzing noise whenever ANC is enabled and Bluetooth is active. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "sound_quality",
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Audio / Sound Issue",
+      "Connectivity / Bluetooth Issue"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_243",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "I was really excited about this product. Extremely tight clamping force gave me severe headaches after 20 minutes. Also, painful wrist cramps and glitchy cursor tracking on standard mousepads. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "tracking",
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "Build Quality / Durability Flaw",
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 32
+  },
+  {
+    "review_id": "REV_244",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Straight to the point: Brilliant microphone clarity for Zoom meetings. My colleagues noticed the upgrade immediately. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 18
+  },
+  {
+    "review_id": "REV_245",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "I had mixed feelings before ordering. Good display clarity but the stand is a bit wobbly on my desk. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "display",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_246",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Long-time user review: The companion mobile app is intuitive and makes firmware updates seamless. Also, premium build quality. the aluminum finish feels sturdy, luxurious, and durable. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 28
+  },
+  {
+    "review_id": "REV_247",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Purchased this last week. Brilliant microphone clarity for Zoom meetings. My colleagues noticed the upgrade immediately. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 18
+  },
+  {
+    "review_id": "REV_248",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "My experience so far: Painful wrist cramps and glitchy cursor tracking on standard mousepads. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "comfort",
+      "tracking"
+    ],
+    "gold_complaint_categories": [
+      "Comfort / Fit Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 17
+  },
+  {
+    "review_id": "REV_249",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "I had mixed feelings before ordering. It works as advertised, nothing spectacular but gets the job done for the price. Just middle of the road.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "price_value",
+      "general"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 25
+  },
+  {
+    "review_id": "REV_250",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "I had mixed feelings before ordering. Pairs instantly with my phone and laptop. Zero latency and stable connection across my apartment. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 27
+  },
+  {
+    "review_id": "REV_251",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Straight to the point: Battery life exceeded my expectations, easily lasts two full days on a single charge. Also, fantastic value for money. performs just as well as models twice the price. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "price_value",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 38
+  },
+  {
+    "review_id": "REV_252",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Here is my honest take: Battery life exceeded my expectations, easily lasts two full days on a single charge. Also, fast shipping and eco-friendly packaging. everything arrived in immaculate condition. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "shipping_packaging",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 32
+  },
+  {
+    "review_id": "REV_253",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "My experience so far: Arrived two weeks late and the retail box was completely crushed. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "shipping_packaging"
+    ],
+    "gold_complaint_categories": [
+      "Late Delivery / Packaging Damage"
+    ],
+    "review_length_words": 17
+  },
+  {
+    "review_id": "REV_254",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Upgraded to this model recently. Super comfortable even during 8-hour work sessions. The memory foam padding is a game changer. Also, the companion mobile app is intuitive and makes firmware updates seamless. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software",
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 34
+  },
+  {
+    "review_id": "REV_255",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Long-time user review: Brilliant microphone clarity for Zoom meetings. My colleagues noticed the upgrade immediately. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 17
+  },
+  {
+    "review_id": "REV_256",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "My experience so far: Good display clarity but the stand is a bit wobbly on my desk. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "display",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 22
+  },
+  {
+    "review_id": "REV_257",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "I had mixed feelings before ordering. Customer service refused to honor the warranty and was outright rude. Also, painful wrist cramps and glitchy cursor tracking on standard mousepads. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "tracking",
+      "comfort",
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue",
+      "Build Quality / Durability Flaw",
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 31
+  },
+  {
+    "review_id": "REV_258",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "After using this for a month: Customer service refused to honor the warranty and was outright rude. Also, way overpriced for what you get. cheap materials and mediocre performance. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "price_value",
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue",
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 32
+  },
+  {
+    "review_id": "REV_259",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Straight to the point: Customer support was incredibly responsive when I asked a compatibility question. Also, the sound quality on this is phenomenal, crystal clear highs and deep bass. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "sound_quality",
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 31
+  },
+  {
+    "review_id": "REV_260",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Honestly, The audio is decent for podcasts, but battery life is strictly average at around 6 hours. Just middle of the road.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 22
+  },
+  {
+    "review_id": "REV_261",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Purchased this last week. It works as advertised, nothing spectacular but gets the job done for the price. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "price_value",
+      "general"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_262",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "After using this for a month: Super comfortable even during 8-hour work sessions. The memory foam padding is a game changer. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 27
+  },
+  {
+    "review_id": "REV_263",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Upgraded to this model recently. It works as advertised, nothing spectacular but gets the job done for the price. Just middle of the road.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "price_value",
+      "general"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_264",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "After using this for a month: The sound quality on this is phenomenal, crystal clear highs and deep bass. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_265",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "After using this for a month: Customer service refused to honor the warranty and was outright rude. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_266",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Purchased this last week. Sound is okay and connection is fine, but for $150 I was hoping for something more premium. Just middle of the road.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 26
+  },
+  {
+    "review_id": "REV_267",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Straight to the point: The desktop software crashes constantly on Windows 11 and fails to detect the device. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "Software / Pairing Bug"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_268",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Upgraded to this model recently. Constant Bluetooth dropouts every 10 minutes. Will not stay paired with my MacBook. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_269",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Upgraded to this model recently. Painful wrist cramps and glitchy cursor tracking on standard mousepads. Also, unbearably muddy audio with harsh treble that distorts at moderate volume. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "tracking",
+      "comfort",
+      "sound_quality"
+    ],
+    "gold_complaint_categories": [
+      "Build Quality / Durability Flaw",
+      "Audio / Sound Issue",
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 30
+  },
+  {
+    "review_id": "REV_270",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "I was really excited about this product. Way overpriced for what you get. Cheap materials and mediocre performance. Also, charging port stopped working after a month; only charges when holding the cable at an angle. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "price_value",
+      "build_quality",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "Battery / Charging Issue",
+      "Overpriced / Poor Value",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 38
+  },
+  {
+    "review_id": "REV_271",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Long-time user review: Arrived two weeks late and the retail box was completely crushed. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "shipping_packaging"
+    ],
+    "gold_complaint_categories": [
+      "Late Delivery / Packaging Damage"
+    ],
+    "review_length_words": 16
+  },
+  {
+    "review_id": "REV_272",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Straight to the point: Pairs instantly with my phone and laptop. Zero latency and stable connection across my apartment. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_273",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "I had mixed feelings before ordering. The companion mobile app is intuitive and makes firmware updates seamless. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_274",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Honestly, The companion mobile app is intuitive and makes firmware updates seamless. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 14
+  },
+  {
+    "review_id": "REV_275",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Upgraded to this model recently. Charging port stopped working after a month; only charges when holding the cable at an angle. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "battery_life",
+      "build_quality"
+    ],
+    "gold_complaint_categories": [
+      "Battery / Charging Issue",
+      "Build Quality / Durability Flaw"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_276",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "My experience so far: Fantastic value for money. Performs just as well as models twice the price. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 19
+  },
+  {
+    "review_id": "REV_277",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "I had mixed feelings before ordering. Battery life exceeded my expectations, easily lasts two full days on a single charge. Also, customer support was incredibly responsive when i asked a compatibility question. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "customer_service",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 34
+  },
+  {
+    "review_id": "REV_278",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Here is my honest take: The desktop software crashes constantly on Windows 11 and fails to detect the device. Also, arrived two weeks late and the retail box was completely crushed. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "software",
+      "shipping_packaging"
+    ],
+    "gold_complaint_categories": [
+      "Late Delivery / Packaging Damage",
+      "Software / Pairing Bug"
+    ],
+    "review_length_words": 33
+  },
+  {
+    "review_id": "REV_279",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Here is my honest take: Comfort is acceptable, though it gets a little warm after an hour of use. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_280",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Upgraded to this model recently. Comfort is acceptable, though it gets a little warm after an hour of use. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_281",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "My experience so far: Customer service refused to honor the warranty and was outright rude. Also, the desktop software crashes constantly on windows 11 and fails to detect the device. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "software",
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue",
+      "Software / Pairing Bug"
+    ],
+    "review_length_words": 32
+  },
+  {
+    "review_id": "REV_282",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Upgraded to this model recently. Constant Bluetooth dropouts every 10 minutes. Will not stay paired with my MacBook. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "Connectivity / Bluetooth Issue"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_283",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "I was really excited about this product. It works as advertised, nothing spectacular but gets the job done for the price. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "price_value",
+      "general"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 26
+  },
+  {
+    "review_id": "REV_284",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "I was really excited about this product. Battery life exceeded my expectations, easily lasts two full days on a single charge. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 23
+  },
+  {
+    "review_id": "REV_285",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Upgraded to this model recently. Battery life exceeded my expectations, easily lasts two full days on a single charge. Also, pairs instantly with my phone and laptop. zero latency and stable connection across my apartment. Outstanding quality!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "connectivity",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 37
+  },
+  {
+    "review_id": "REV_286",
+    "product_id": "PROD_SMARTWATCH_02",
+    "product_name": "PulseFit Ultra GPS Smartwatch",
+    "review_text": "Honestly, Arrived two weeks late and the retail box was completely crushed. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "shipping_packaging"
+    ],
+    "gold_complaint_categories": [
+      "Late Delivery / Packaging Damage"
+    ],
+    "review_length_words": 15
+  },
+  {
+    "review_id": "REV_287",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Upgraded to this model recently. Extremely tight clamping force gave me severe headaches after 20 minutes. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 18
+  },
+  {
+    "review_id": "REV_288",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "My experience so far: Sound is okay and connection is fine, but for $150 I was hoping for something more premium. Fair compromise for the price.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 26
+  },
+  {
+    "review_id": "REV_289",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Straight to the point: Brilliant microphone clarity for Zoom meetings. My colleagues noticed the upgrade immediately. Also, super comfortable even during 8-hour work sessions. the memory foam padding is a game changer. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "comfort",
+      "mic_quality"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 38
+  },
+  {
+    "review_id": "REV_290",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Honestly, Super comfortable even during 8-hour work sessions. The memory foam padding is a game changer. Also, customer support was incredibly responsive when i asked a compatibility question. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "comfort",
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 30
+  },
+  {
+    "review_id": "REV_291",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "Straight to the point: Sound is okay and connection is fine, but for $150 I was hoping for something more premium. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "price_value"
+    ],
+    "gold_complaint_categories": [
+      "Overpriced / Poor Value"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_292",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Long-time user review: Customer service refused to honor the warranty and was outright rude. Would not recommend.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue"
+    ],
+    "review_length_words": 17
+  },
+  {
+    "review_id": "REV_293",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "Honestly, The companion mobile app is intuitive and makes firmware updates seamless. Highly recommended!",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 14
+  },
+  {
+    "review_id": "REV_294",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "Upgraded to this model recently. The audio is decent for podcasts, but battery life is strictly average at around 6 hours. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "sound_quality",
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 24
+  },
+  {
+    "review_id": "REV_295",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "My experience so far: Extremely tight clamping force gave me severe headaches after 20 minutes. Very disappointing.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 17
+  },
+  {
+    "review_id": "REV_296",
+    "product_id": "PROD_KEYBOARD_03",
+    "product_name": "ApexKey Pro Mechanical Keyboard",
+    "review_text": "I was really excited about this product. Extremely tight clamping force gave me severe headaches after 20 minutes. Regret this purchase.",
+    "gold_sentiment": "Negative",
+    "gold_aspects": [
+      "comfort"
+    ],
+    "gold_complaint_categories": [
+      "Comfort / Fit Issue"
+    ],
+    "review_length_words": 21
+  },
+  {
+    "review_id": "REV_297",
+    "product_id": "PROD_SPEAKER_05",
+    "product_name": "BoomBox Horizon Waterproof Bluetooth Speaker",
+    "review_text": "Long-time user review: Good build quality but customer service took 5 days to respond to an inquiry. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "build_quality",
+      "customer_service"
+    ],
+    "gold_complaint_categories": [
+      "Customer Support Issue"
+    ],
+    "review_length_words": 20
+  },
+  {
+    "review_id": "REV_298",
+    "product_id": "PROD_WEBCAM_04",
+    "product_name": "ClearVision 4K Pro Streaming Webcam",
+    "review_text": "Here is my honest take: Pairs instantly with my phone and laptop. Zero latency and stable connection across my apartment. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "connectivity"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 26
+  },
+  {
+    "review_id": "REV_299",
+    "product_id": "PROD_MOUSE_06",
+    "product_name": "ErgoGlide Master Wireless Ergonomic Mouse",
+    "review_text": "I was really excited about this product. Fast shipping and eco-friendly packaging. Everything arrived in immaculate condition. Also, the companion mobile app is intuitive and makes firmware updates seamless. Would buy again in a heartbeat.",
+    "gold_sentiment": "Positive",
+    "gold_aspects": [
+      "software",
+      "shipping_packaging"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 35
+  },
+  {
+    "review_id": "REV_300",
+    "product_id": "PROD_HEADPHONES_01",
+    "product_name": "AeroSound Pro Wireless ANC Headphones",
+    "review_text": "I had mixed feelings before ordering. Battery lasts about what the box claims. Neither blown away nor disappointed. Mixed feelings overall.",
+    "gold_sentiment": "Neutral",
+    "gold_aspects": [
+      "battery_life"
+    ],
+    "gold_complaint_categories": [
+      "None"
+    ],
+    "review_length_words": 21
+  }
+]
